@@ -35,23 +35,23 @@
 @font-face {
   font-family:"Open Sans Fallback";
   font-style:normal;
-  font-weight:700;
-  src:local("Arial Bold");
-  ascent-override:101.97%;
-  descent-override:27.95%;
-  line-gap-override:0.00%;
-  size-adjust:104.82%;
-}
-
-@font-face {
-  font-family:"Open Sans Fallback";
-  font-style:normal;
   font-weight:400;
   src:local("Arial");
   ascent-override:106.88%;
   descent-override:29.30%;
   line-gap-override:0.00%;
   size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"Open Sans Fallback";
+  font-style:normal;
+  font-weight:700;
+  src:local("Arial Bold");
+  ascent-override:101.97%;
+  descent-override:27.95%;
+  line-gap-override:0.00%;
+  size-adjust:104.82%;
 }
 
 @media (width>=900px) {
