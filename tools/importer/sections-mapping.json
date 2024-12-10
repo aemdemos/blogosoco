@@ -1,0 +1,40 @@
+{
+  "url": "https://blog.osoco.de",
+  "sanitizedPath": "/index",
+  "autoDetect": false,
+  "mapping": [
+    {
+      "id": "1",
+      "path": "/nav",
+      "sections": [
+        {
+          "id": "1-1",
+          "blocks": [],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "path": "/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "3-1",
+          "blocks": [],
+          "settings": {}
+        }
+      ]
+    }
+  ]
+}
