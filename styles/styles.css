@@ -247,3 +247,6 @@ main .section.light, main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+.section.hidden {
+  display: none;
+}
