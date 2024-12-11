@@ -1,42 +1,42 @@
 
-.maincontent-wrapper > .maincontent.block {
+.maincontent-wrapper > .maincontent > div {
   display: flex;
-  flex-direction: row;
-  gap: 24px;
-  align-items: flex-start;
+  flex-direction: row; /* Ensure horizontal layout */
+  justify-content: space-between; /* Ensure space between the two sections */
+  align-items: flex-start; /* Align items at the start */
 }
 
-.maincontent-wrapper > .maincontent.block > div:first-child {
-  display: flex;
-  flex-direction: column;
-  flex: 2;
+.maincontent-wrapper > .maincontent > div > div:nth-child(1) {
+  flex: 2; /* First section (text) takes up more space */
+  padding-right: 24px; /* Add space between the text and the image */
 }
 
-.maincontent-wrapper > .maincontent.block > div:nth-child(2) {
-  display: flex;
-  justify-content: flex-start;
-  flex: 1;
-  order: 2;
+.maincontent-wrapper > .maincontent > div > div:nth-child(2) {
+  flex: 1; /* Second section (image) takes up less space */
+  display: flex; /* Ensure the image container is a flexbox */
+  justify-content: center; /* Center the image horizontally */
+  align-items: flex-start; /* Align the image to the top of the container */
 }
 
-.maincontent-wrapper > .maincontent.block img {
-  max-width: 100%;
-  height: auto;
+.maincontent-wrapper img {
+  width: 100%; /* Ensure the image takes up the full width of its container */
+  max-width: 300px; /* Limit the image width to prevent wrapping */
+  display: block; /* Ensure image is a block element */
 }
 
 @media (min-width: 900px) {
-  .maincontent-wrapper > .maincontent.block {
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 24px;
+  .maincontent-wrapper > .maincontent > div {
+    flex-direction: row; /* Ensure horizontal layout */
+    align-items: flex-start; /* Align items at the start */
+    gap: 24px; /* Add gap between items */
   }
 
-  .maincontent-wrapper > .maincontent.block > div:first-child {
-    flex: 2;
+  .maincontent-wrapper > .maincontent > div > div:nth-child(1) {
+    flex: 2; /* Ensure text section takes up more space */
   }
 
-  .maincontent-wrapper > .maincontent.block > div:nth-child(2) {
-    flex: 1;
-    order: 2;
+  .maincontent-wrapper > .maincontent > div > div:nth-child(2) {
+    flex: 1; /* Ensure image section takes up less space */
+    max-width: 300px; /* Ensure the image section does not exceed its max width */
   }
 }
