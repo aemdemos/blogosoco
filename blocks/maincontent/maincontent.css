@@ -1,0 +1,67 @@
+
+.maincontent-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* Ensure even spacing between text and image */
+  align-items: flex-start;
+  gap: 20px; /* Space between text and image */
+}
+
+.maincontent {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.maincontent > div {
+  flex: 1;
+}
+
+.maincontent > div:first-child {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Align the heading and text to the start */
+}
+
+.maincontent > div:last-child {
+  display: flex;
+  justify-content: center; /* Center the image */
+  align-items: flex-start; /* Align the image to the start */
+}
+
+.maincontent img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (min-width: 900px) {
+  .maincontent-wrapper > .maincontent {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  .maincontent > div {
+    flex: 1;
+  }
+
+  .maincontent > div > div {
+    display: flex;
+    flex-direction: row; /* Ensure the inner text elements are side by side */
+    flex-wrap: wrap; /* Allow wrapping if needed */
+  }
+
+  .maincontent > div > .maincontent-img-col {
+    flex: 1;
+    display: flex;
+    justify-content: center; /* Center the image */
+    align-items: flex-start; /* Align the image to the start */
+  }
+
+  .maincontent > div > .maincontent-img-col img {
+    display: block;
+    width: 100%; /* Ensure image fills the column width */
+    height: auto; /* Ensure the image maintains aspect ratio */
+  }
+}
