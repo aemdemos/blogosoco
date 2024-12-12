@@ -1,0 +1,51 @@
+
+.maincontent-wrapper .maincontent.block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-direction: row;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  gap: 24px; /* Add gap between the text and image sections */
+}
+
+.maincontent-wrapper .maincontent.block > div {
+  display: flex;
+  flex-direction: row; /* Ensure inner elements are aligned side by side */
+  flex: 1;
+}
+
+.maincontent-wrapper .maincontent.block > div:first-child {
+  display: flex;
+  flex-direction: column; /* Ensure text elements are aligned vertically */
+  flex: 2; /* Increase flex for text section */
+}
+
+.maincontent-wrapper .maincontent.block > div:last-child {
+  display: flex;
+  justify-content: center; /* Center the image horizontally */
+  align-items: flex-start; /* Align the image to the top */
+  flex: 1; /* Decrease flex for image section */
+}
+
+.maincontent-wrapper .maincontent.block img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (min-width: 900px) {
+  .maincontent-wrapper .maincontent.block {
+    flex-direction: row;
+  }
+
+  .maincontent-wrapper .maincontent.block > div:first-child {
+    flex: 2;
+  }
+
+  .maincontent-wrapper .maincontent.block > div:last-child {
+    flex: 1;
+  }
+}
