@@ -1,0 +1,54 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.maincontent-wrapper > .maincontent > div {
+  flex: 1;
+  margin: 0 20px; /* Increase margin to create more space between columns */
+  display: flex;
+  flex-direction: row; /* Ensure elements are side by side */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  flex-direction: column; /* Stack the title and text block vertically */
+}
+
+.maincontent-wrapper > .maincontent > div:nth-child(2) {
+  flex-direction: row; /* Ensure text and image are side by side */
+}
+
+.maincontent-wrapper > .maincontent img {
+  width: auto; /* Ensure image does not take full width */
+  max-width: 450px; /* Increase max-width for the image */
+  height: auto;
+  margin-left: 20px; /* Add margin to the left of the image for spacing */
+}
+
+.maincontent-wrapper > .maincontent > div > div {
+  flex: 1; /* Ensure child divs take up equal space */
+}
+
+.maincontent-wrapper > .maincontent > div > .maincontent-img-col img {
+  display: block;
+  margin: 0; /* Reset margin for image within specific column */
+}
+
+@media (max-width: 900px) {
+  .maincontent-wrapper > .maincontent {
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+    align-items: flex-start;
+  }
+
+  .maincontent-wrapper > .maincontent img {
+    max-width: 100%; /* Ensure image scales appropriately on smaller screens */
+    margin-left: 0; /* Reset left margin on smaller screens */
+  }
+
+  .maincontent-wrapper > .maincontent > div {
+    flex-direction: column; /* Stack inner divs vertically on smaller screens */
+  }
+}
