@@ -1,0 +1,39 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex;
+  flex-direction: row;
+  gap: 20px; /* Adjust spacing between elements as needed */
+  align-items: flex-start;
+}
+
+.maincontent-wrapper > .maincontent > div {
+  flex: 1; /* Ensure both columns take up equal space */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Ensure the text starts from the top */
+}
+
+.maincontent-wrapper > .maincontent > div:last-child {
+  display: flex;
+  align-items: center; /* Center the image within the div */
+}
+
+.maincontent-wrapper .maincontent img {
+  width: auto; /* Do not take full width */
+  height: auto; /* Maintain aspect ratio */
+  max-width: 100%; /* Responsive sizing */
+}
+
+@media (min-width: 900px) {
+  .maincontent-wrapper > .maincontent {
+    flex-direction: row; /* Ensure side-by-side layout */
+    gap: 24px; /* Adjust spacing between elements as needed */
+  }
+
+  .maincontent-wrapper > .maincontent > div {
+    flex: 1;
+  }
+}
