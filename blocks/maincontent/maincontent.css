@@ -1,0 +1,21 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; /* This ensures space between the two main divs */
+  align-items: flex-start; /* Align items at the start of the container vertically */
+  gap: 20px; /* Adjust the gap as needed */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  flex: 1; /* This div will take up the remaining space */
+}
+
+.maincontent-wrapper > .maincontent > div:last-child {
+  flex: 0 0 auto;
+}
+
+.maincontent-wrapper .maincontent img {
+  max-width: 300px; /* Adjust the max-width as needed */
+  height: auto;
+}
