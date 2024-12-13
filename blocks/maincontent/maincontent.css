@@ -1,0 +1,25 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* Align items to the top */
+  gap: 24px; /* Add space between the text and the image */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  order: 1; /* Ensure the text comes first */
+  flex: 1;
+  padding-right: 20px; /* Space between the text and the image */
+}
+
+.maincontent-wrapper > .maincontent > div:nth-child(2) {
+  order: 2; /* Ensure the image comes after the text */
+  display: flex;
+  justify-content: flex-end; /* Align image to the right */
+}
+
+.maincontent-wrapper > .maincontent img {
+  width: auto; /* Ensure the image retains its original size */
+  max-width: 300px; /* Prevent the image from exceeding its natural size */
+  align-self: flex-start; /* Align image to the top */
+}
