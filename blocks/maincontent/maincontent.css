@@ -1,0 +1,48 @@
+
+.maincontent-wrapper > .maincontent.block {
+  display: flex;
+  flex-direction: row; /* Ensure elements are side by side */
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  max-width: 1200px; /* Optional: Max width for the content */
+  gap: 20px; /* Space between the elements */
+  padding: 20px;
+}
+
+.maincontent-wrapper > .maincontent.block > div {
+  display: flex;
+  flex-direction: row; /* Ensure elements within each div are side by side */
+  flex: 1;
+}
+
+.maincontent-wrapper > .maincontent.block > div:first-child {
+  flex: 2; /* Allow the text block to take up more space */
+  flex-direction: column; /* Stack the heading and paragraphs vertically */
+}
+
+.maincontent-wrapper > .maincontent.block > div:first-child > div {
+  flex: 1; /* Ensure the inner div takes up full available space */
+  display: flex;
+  flex-direction: column; /* Stack the heading and paragraphs vertically */
+}
+
+.maincontent-wrapper > .maincontent.block > div:last-child {
+  flex: 0 0 300px; /* Fixed width for the image block */
+}
+
+.maincontent-wrapper h1#welcome {
+  font-size: 24px; /* Adjust as necessary */
+  font-weight: bold;
+  margin-bottom: 10px; /* Adjust spacing */
+}
+
+.maincontent-wrapper p {
+  margin-bottom: 10px; /* Adjust spacing */
+  line-height: 1.5; /* Improve readability */
+}
+
+.maincontent-wrapper img {
+  width: 100%; /* Ensure the image takes up the full width of its container */
+  height: auto;
+}
