@@ -1,0 +1,37 @@
+
+.maincontent-wrapper > .maincontent.block {
+  display: flex;
+  flex-direction: row; /* Ensure elements are side by side */
+  align-items: flex-start; /* Align items at the top */
+  gap: 24px; /* Adds space between the image and text sections */
+}
+
+.maincontent-wrapper > .maincontent.block > div {
+  flex: 1; /* Allow both sections to take up equal space */
+  display: flex;
+  flex-direction: row; /* Ensure nested elements are side by side */
+  align-items: flex-start; /* Align nested elements at the top */
+}
+
+.maincontent-wrapper > .maincontent.block img {
+  max-width: 200px; /* Further limit the maximum width of the image */
+  height: auto; /* Maintain the aspect ratio of the image */
+  margin-left: 24px; /* Add margin to the left of the image */
+}
+
+.maincontent-wrapper > .maincontent.block p {
+  margin: 0; /* Remove default margins to ensure proper alignment */
+  padding-left: 0; /* Ensure no padding on the left side */
+  align-self: flex-start; /* Align paragraphs to the top */
+}
+
+@media (max-width: 900px) {
+  .maincontent-wrapper > .maincontent.block {
+    flex-direction: column; /* Stack items vertically for smaller screens */
+  }
+
+  .maincontent-wrapper > .maincontent.block img {
+    width: 100%; /* Ensure the image takes full width in smaller screens */
+    margin-left: 0; /* Remove left margin for smaller screens */
+  }
+}
