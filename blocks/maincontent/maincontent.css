@@ -1,0 +1,42 @@
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols > div {
+  display: flex;
+  flex-direction: row; /* Ensure elements are side by side */
+  justify-content: space-between;
+  align-items: flex-start; /* Align items at the top */
+  gap: 20px; /* Space between the two sections */
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols > div > div:first-child {
+  flex: 1 1 70%; /* 70% width for the text section */
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols > div:nth-child(2) {
+  flex: 0 1 30%; /* 30% width for the image section */
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols img {
+  max-width: 100%; /* Ensure the image does not exceed its container */
+  height: auto;
+  border-radius: 8px; /* Add rounded corners */
+  margin-left: 20px; /* Add margin to separate the image from the text */
+}
+
+@media (min-width: 900px) {
+  .maincontent-wrapper > .maincontent.block.maincontent-1-cols > div {
+    flex-direction: row; /* Ensure horizontal alignment on larger screens */
+    align-items: flex-start; /* Align items at the top */
+  }
+
+  .maincontent-wrapper > .maincontent.block.maincontent-1-cols > div > div:first-child {
+    flex: 1 1 70%; /* Maintain 70% width for the text section */
+  }
+
+  .maincontent-wrapper > .maincontent.block.maincontent-1-cols > div:nth-child(2) {
+    flex: 0 1 30%; /* Maintain 30% width for the image section */
+  }
+
+  .maincontent-wrapper > .maincontent.block.maincontent-1-cols img {
+    margin-left: 20px; /* Maintain margin on larger screens */
+  }
+}
