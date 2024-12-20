@@ -1,30 +1,59 @@
 
-.maincontent-wrapper > .maincontent {
+.maincontent-wrapper .maincontent.block.maincontent-1-cols {
   display: flex;
-  flex-direction: row;
-  align-items: flex-start; /* Align items to the start of the container */
+  flex-direction: column;
   gap: 24px;
 }
 
-.maincontent-wrapper > .maincontent > div:first-child {
+.maincontent-wrapper .maincontent.block.maincontent-1-cols > div:first-child {
   display: flex;
-  flex-direction: column; /* Ensure the text elements stack vertically */
+  flex-direction: column; /* Ensure title is above the text and image */
+}
+
+.maincontent-wrapper .maincontent.block.maincontent-1-cols > div:nth-child(2) {
+  display: flex;
+  flex-direction: row; /* Ensure image and text are side by side */
+  gap: 24px;
+  align-items: flex-start;
+}
+
+.maincontent-wrapper .maincontent.block.maincontent-1-cols > div:nth-child(2) > div:first-child {
   flex: 1;
-  max-width: 60%; /* Adjust this value to control the width of the text section */
-}
-
-.maincontent-wrapper > .maincontent > div:last-child {
   display: flex;
-  flex-direction: row; /* Ensure inner elements are also aligned side by side */
-  flex: 0 1 auto; /* Ensure the image div does not stretch */
-  max-width: 40%; /* Adjust the maximum width of the image section */
-  justify-content: center; /* Center the image within its container */
-  align-items: flex-start; /* Align image at the start */
+  flex-direction: column; /* Ensure text is properly aligned */
 }
 
-.maincontent-wrapper > .maincontent img {
-  max-width: 100%;
-  height: auto;
-  display: block; /* Ensure the image is displayed as a block element */
-  align-self: flex-start; /* Align the image to the start of the container */
+.maincontent-wrapper .maincontent.block.maincontent-1-cols > div:nth-child(2) > div:last-child {
+  flex: 0 0 auto;
+}
+
+.maincontent-wrapper .maincontent.block.maincontent-1-cols img {
+  max-width: 300px; /* Limit image width to make it align nicely with text */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.maincontent-wrapper .maincontent.block.maincontent-1-cols p {
+  margin: 0; /* Optional: Adjust margin for better spacing */
+}
+
+@media (min-width: 900px) {
+  .maincontent-wrapper .maincontent.block.maincontent-1-cols {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .maincontent-wrapper .maincontent.block.maincontent-1-cols > div:nth-child(2) {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .maincontent-wrapper .maincontent.block.maincontent-1-cols > div:nth-child(2) > div:first-child {
+    flex: 1;
+    display: flex;
+    flex-direction: column; /* Ensure text is properly aligned */
+  }
+
+  .maincontent-wrapper .maincontent.block.maincontent-1-cols > div:nth-child(2) > div:last-child {
+    flex: 0 0 auto;
+  }
 }
