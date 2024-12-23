@@ -1,0 +1,43 @@
+
+.maincontent-wrapper > .maincontent-1-cols > div {
+  display: flex;
+  flex-direction: row; /* Ensure elements are placed side by side */
+  align-items: flex-start; /* Align items at the start along the cross axis */
+  justify-content: space-between; /* Distribute space between items */
+}
+
+.maincontent-wrapper > .maincontent-1-cols > div > div:first-of-type {
+  flex: 1; /* Give the text content more space */
+  margin-right: 20px; /* Add spacing between text and image */
+}
+
+.maincontent-wrapper > .maincontent-1-cols > div > div:last-of-type {
+  flex: 1; /* Give the image less space */
+  display: flex;
+  justify-content: flex-end; /* Align the image to the right */
+}
+
+.maincontent-wrapper > .maincontent-1-cols img {
+  width: auto; /* Set width to auto to maintain natural size */
+  max-width: 300px; /* Limit the max width */
+  height: auto; /* Maintain aspect ratio */
+  margin-left: 20px; /* Add spacing between text and image */
+}
+
+@media (min-width: 900px) {
+  .maincontent-wrapper > .maincontent-1-cols > div {
+    align-items: flex-start;
+    flex-direction: row; /* Ensure flex-direction is row for larger screens */
+    gap: 24px;
+  }
+
+  .maincontent-wrapper > .maincontent-1-cols > div > div:first-of-type {
+    flex: 1; /* Give the text content more space */
+  }
+
+  .maincontent-wrapper > .maincontent-1-cols > div > div:last-of-type {
+    flex: 1; /* Give the image less space */
+    display: flex;
+    justify-content: flex-end; /* Align the image to the right */
+  }
+}
