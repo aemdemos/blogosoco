@@ -1,0 +1,56 @@
+
+.maincontent-wrapper > .maincontent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.maincontent-1-cols {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.maincontent-1-cols > div:first-child {
+    flex: 1;
+    margin-right: 20px; /* Adjust margin as needed */
+}
+
+.maincontent-1-cols > div:last-child {
+    flex: 0 0 auto; /* The image container should take its natural width */
+    margin-left: 20px; /* Add margin to the left of the image */
+}
+
+.maincontent img {
+    width: auto; /* Ensure the image retains its natural width */
+    max-width: 100%; /* Prevent the image from exceeding the container's width */
+}
+
+.maincontent-1-cols > div > div {
+    flex: 1;
+}
+
+.maincontent-1-cols > div > div > p {
+    margin-top: 0;
+}
+
+@media (max-width: 900px) {
+    .maincontent-1-cols {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .maincontent-1-cols > div {
+        margin-right: 0;
+        margin-bottom: 20px; /* Add spacing between elements when stacked */
+        flex-direction: column; /* Stack elements vertically on smaller screens */
+    }
+
+    .maincontent-1-cols > div:last-child {
+        margin-left: 0;
+        margin-bottom: 0;
+    }
+}
