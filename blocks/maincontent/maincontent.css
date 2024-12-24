@@ -1,0 +1,41 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.maincontent-wrapper > .maincontent > div {
+  flex: 1;
+  display: flex;
+  flex-direction: row; /* Ensure inner elements are side by side */
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  flex: 2;
+  display: flex;
+  flex-direction: column; /* Ensure header and text are stacked */
+  justify-content: flex-start;
+}
+
+.maincontent-wrapper > .maincontent > div:first-child > div {
+  margin-bottom: 16px; /* Add margin between header and text */
+}
+
+.maincontent-wrapper > .maincontent img {
+  width: auto;
+  max-width: 300px;
+  margin-left: 16px; /* Add margin to separate image from text */
+  align-self: flex-start; /* Align image to the top */
+}
+
+.maincontent-wrapper > .maincontent h1 {
+  margin: 0 0 16px 0; /* Reduce margin to align text closer to header */
+}
+
+.maincontent-wrapper > .maincontent p {
+  margin: 0 0 16px 0; /* Ensure consistent spacing between paragraphs */
+}
