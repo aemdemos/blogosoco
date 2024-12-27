@@ -1,0 +1,29 @@
+
+.maincontent-wrapper .maincontent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px; /* Adjust the gap as needed */
+}
+
+.maincontent-wrapper .maincontent > div {
+  display: flex;
+  flex-direction: row; /* Ensure nested flex items are also aligned side-by-side */
+  flex-wrap: wrap; /* Allow wrapping of text around the image */
+}
+
+.maincontent-wrapper .maincontent > div:nth-child(2) {
+  flex-direction: row; /* Ensure text and image are side by side */
+}
+
+.maincontent-wrapper .maincontent img {
+  max-width: 300px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 20px; /* Add margin to the right of the image to create space between the image and text */
+  flex-shrink: 0; /* Prevent the image from shrinking */
+}
+
+.maincontent-wrapper .maincontent p {
+  margin-top: 0; /* Remove top margin from paragraphs to align text closer to the image */
+  flex: 1 1 0; /* Ensure the text takes up remaining space and wraps properly */
+}
