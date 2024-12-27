@@ -1,0 +1,36 @@
+
+.maincontent-1-cols {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px; /* Adjust the gap as necessary */
+}
+
+.maincontent-1-cols > div:first-child {
+    flex: 1;
+}
+
+.maincontent-1-cols > div:last-child {
+    flex: 2;
+}
+
+.maincontent-1-cols h1 {
+    margin-bottom: 10px; /* Adjust the margin as necessary */
+}
+
+.maincontent-1-cols picture {
+    float: right;
+    margin-left: 20px; /* Adjust the margin as necessary */
+    border-radius: 8px; /* Add border-radius to match the rounded corners in the image */
+    max-width: 100%; /* Ensure the image fits within its container */
+    height: auto;
+}
+
+@media (min-width: 900px) {
+  .maincontent-1-cols {
+    align-items: flex-start;
+    flex-direction: row; /* Ensure flex-direction remains row on larger screens */
+    gap: 24px;
+  }
+}
