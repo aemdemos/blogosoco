@@ -7,6 +7,10 @@ jobs:
   label_job:
     runs-on: ubuntu-latest
     if: github.event.label.name == 'aemy-css-lint'
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
     steps:
     - uses: actions/checkout@v4
       with:
