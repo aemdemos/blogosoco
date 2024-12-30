@@ -32,10 +32,11 @@
   margin-right: 20px; /* Add margin to the right of the image */
 }
 
-@media (max-width: 900px) {
+@media (width <= 900px) {
   .maincontent-wrapper > .maincontent {
     flex-direction: column; /* Stack elements vertically on smaller screens */
   }
+
   .maincontent-wrapper .maincontent img {
     width: 100%; /* Ensure the image takes full width on smaller screens */
     margin-right: 0; /* Remove right margin for smaller screens */
