@@ -1,0 +1,41 @@
+
+.maincontent-wrapper > .maincontent.block {
+  display: flex;
+  flex-direction: row; /* Align elements side by side */
+  gap: 20px; /* Add gap for spacing */
+}
+
+.maincontent-wrapper > .maincontent.block > div:first-child {
+  flex: 2; /* Make the text column wider */
+}
+
+.maincontent-wrapper > .maincontent.block > div:last-child {
+  flex: 1; /* Make the image column narrower */
+  display: flex;
+  flex-direction: row; /* Ensure the image and text inside the div are side by side */
+  justify-content: center; /* Center the image horizontally */
+  align-items: center; /* Center the image vertically */
+}
+
+.maincontent-wrapper > .maincontent.block img {
+  width: 100%; /* Ensure the image scales to fit its container */
+  max-width: 100%; /* Ensure image scales within its container */
+  height: auto; /* Maintain aspect ratio */
+}
+
+@media (max-width: 900px) {
+  .maincontent-wrapper > .maincontent.block {
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+    align-items: center;
+  }
+
+  .maincontent-wrapper > .maincontent.block > div:first-child,
+  .maincontent-wrapper > .maincontent.block > div:last-child {
+    flex: unset;
+    width: 100%; /* Ensure full width on smaller screens */
+  }
+
+  .maincontent-wrapper > .maincontent.block img {
+    width: auto; /* Ensure the image does not span the full width */
+  }
+}
