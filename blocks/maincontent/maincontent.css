@@ -27,7 +27,7 @@
   margin-bottom: 16px; /* Add bottom margin for better spacing between paragraphs */
 }
 
-@media (max-width: 900px) {
+@media (width <= 900px) {
   .maincontent-wrapper > .maincontent {
     flex-direction: column; /* Stack elements vertically on smaller screens */
     align-items: flex-start; /* Align items to the start in column direction */
