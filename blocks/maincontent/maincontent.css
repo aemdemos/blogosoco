@@ -1,0 +1,29 @@
+
+.maincontent-wrapper .maincontent-1-cols {
+  display: flex;
+  flex-direction: row; /* Align children side by side */
+  gap: 24px; /* Add space between elements */
+  align-items: flex-start; /* Align items to the top */
+}
+
+.maincontent-wrapper .maincontent-1-cols > div {
+  flex: 1; /* Ensure both sections take up equal space */
+  display: flex;
+  flex-direction: column; /* Ensure the contents inside each section are stacked */
+}
+
+.maincontent-wrapper .maincontent-1-cols img {
+  width: 200px; /* Adjust width of the image */
+  height: auto; /* Maintain aspect ratio */
+  display: block;
+  margin-left: 20px; /* Add space to the left of the image */
+}
+
+.maincontent-wrapper .maincontent-1-cols h1 {
+  margin-bottom: 20px; /* Add margin to create space below the title */
+}
+
+.maincontent-wrapper .maincontent-1-cols p {
+  margin: 0 0 10px 0; /* Adjust margins for paragraphs */
+  line-height: 1.6; /* Adjust line height for better readability */
+}
