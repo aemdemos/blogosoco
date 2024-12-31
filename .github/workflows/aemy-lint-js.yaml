@@ -4,7 +4,8 @@ on:
     types: [labeled]
 
 jobs:
-  label_job:
+  lint_js_job:
+    name: Lint CSS
     runs-on: ubuntu-latest
     if: github.event.label.name == 'aemy-lint-js'
     permissions:
