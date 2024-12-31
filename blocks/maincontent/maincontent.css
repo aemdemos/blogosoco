@@ -24,6 +24,6 @@
 }
 
 .maincontent-wrapper .maincontent-1-cols p {
-  margin: 0 0 10px 0; /* Adjust margins for paragraphs */
+  margin: 0 0 10px; /* Adjust margins for paragraphs */
   line-height: 1.6; /* Adjust line height for better readability */
 }
