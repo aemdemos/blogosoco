@@ -18,7 +18,7 @@
   margin-left: 20px; /* Adds margin to the left of the image to prevent text wrapping */
 }
 
-@media (max-width: 900px) {
+@media (width <= 900px) {
   .maincontent-wrapper > .maincontent.block.maincontent-1-cols {
     flex-direction: column; /* Stacks elements vertically on smaller screens */
     align-items: center;
