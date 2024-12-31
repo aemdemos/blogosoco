@@ -1,0 +1,55 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex;
+  flex-direction: column;
+}
+
+.maincontent-wrapper > .maincontent > div:nth-child(2) {
+  display: flex;
+  flex-direction: row; /* Ensure elements are side by side */
+  gap: 24px; /* Add space between the text and the image */
+  align-items: flex-start; /* Ensure vertical alignment of text and image */
+}
+
+.maincontent-wrapper .maincontent img {
+  width: auto;
+  max-width: 300px; /* Ensure the image does not take full width */
+}
+
+.maincontent-wrapper .maincontent > div:nth-child(2) > div {
+  flex: 1; /* Ensure both the text and the image container take up appropriate space */
+}
+
+.maincontent-wrapper .maincontent > div:nth-child(2) > picture {
+  flex: 0 0 auto; /* Ensure the image container does not expand to fill the space */
+  align-self: flex-start; /* Align the picture to the top */
+}
+
+.maincontent-wrapper .maincontent picture img {
+  display: block;
+  margin-left: auto; /* Ensure the image is aligned to the right */
+}
+
+@media (min-width: 900px) {
+  .maincontent-wrapper > .maincontent {
+    flex-direction: column;
+  }
+
+  .maincontent-wrapper > .maincontent > div:nth-child(2) {
+    align-items: flex-start;
+    flex-direction: row; /* Ensure row direction in larger screens */
+  }
+
+  .maincontent-wrapper > .maincontent > div:nth-child(2) > div {
+    flex: 1;
+  }
+}
+
+.maincontent-wrapper h1 {
+  margin-bottom: 10px; /* Adjust space between the title and the content */
+}
+
+.maincontent-wrapper p {
+  margin-top: 0; /* Ensure no additional margin at the top of paragraphs */
+  margin-bottom: 16px; /* Add margin to the bottom of paragraphs */
+}
