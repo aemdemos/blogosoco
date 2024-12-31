@@ -26,7 +26,7 @@
   display: block;
 }
 
-@media (min-width: 900px) {
+@media (width >= 900px) {
   .maincontent-wrapper > .maincontent.block.maincontent-1-cols {
     align-items: flex-start; /* Align items to the top */
   }
