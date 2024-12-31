@@ -1,0 +1,48 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  flex: 2;
+  margin-right: 20px; /* Add space between the text column and the image column */
+}
+
+.maincontent-wrapper > .maincontent > div:last-child {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.maincontent-wrapper .maincontent img {
+  width: 100%;
+  height: auto;
+}
+
+.maincontent-wrapper .maincontent > div:first-child > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.maincontent-wrapper .maincontent > div:first-child > div > p {
+  margin-top: 0;
+}
+
+.maincontent-wrapper .maincontent > div:first-child h1 {
+  margin-bottom: 20px; /* Add space below the title */
+}
+
+@media (min-width: 900px) {
+  .maincontent-wrapper > .maincontent {
+    flex-direction: row;
+  }
+
+  .maincontent-wrapper > .maincontent > div:first-child {
+    margin-right: 20px;
+  }
+}
