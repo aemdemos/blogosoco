@@ -1,0 +1,33 @@
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols {
+  display: flex;
+  flex-direction: row; /* Align elements side by side */
+  align-items: flex-start; /* Align items to the top */
+  gap: 24px; /* Add gap between text and image */
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols > div {
+  flex: 1;
+  display: flex;
+  flex-direction: row; /* Ensure nested elements are side by side */
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols > div:first-child {
+  flex-direction: column; /* Ensure text elements stack vertically */
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols > div:first-child > div {
+  margin-bottom: 16px; /* Add margin below each text block */
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (min-width: 900px) {
+  .maincontent-wrapper > .maincontent.block.maincontent-1-cols {
+    align-items: flex-start; /* Align items to the top */
+  }
+}
