@@ -1,0 +1,35 @@
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols {
+  display: flex;
+  flex-direction: row; /* Ensure the elements are side by side */
+  justify-content: space-between; /* Optional: Adjusts spacing between elements */
+  gap: 20px; /* Optional: Adds some space between the elements */
+  align-items: flex-start; /* Align items to the top */
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols > div {
+  flex: 1; /* Distributes the available space */
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols img {
+  width: auto; /* Ensures the image does not occupy the full width */
+  max-width: 300px; /* Limits the maximum width of the image */
+  height: auto; /* Maintains the aspect ratio */
+  margin-left: 20px; /* Adds margin to the left of the image to prevent text wrapping */
+}
+
+@media (max-width: 900px) {
+  .maincontent-wrapper > .maincontent.block.maincontent-1-cols {
+    flex-direction: column; /* Stacks elements vertically on smaller screens */
+    align-items: center;
+  }
+
+  .maincontent-wrapper > .maincontent.block.maincontent-1-cols > div {
+    flex-direction: column; /* Ensures inner elements stack vertically on smaller screens */
+  }
+
+  .maincontent-wrapper > .maincontent.block.maincontent-1-cols img {
+    width: 100%; /* Ensures the image occupies full width on smaller screens */
+    margin-left: 0; /* Removes margin on smaller screens */
+  }
+}
