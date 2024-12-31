@@ -23,7 +23,7 @@
   height: auto; /* Maintain aspect ratio */
 }
 
-@media (max-width: 900px) {
+@media (width <= 900px) {
   .maincontent-wrapper > .maincontent.block {
     flex-direction: column; /* Stack elements vertically on smaller screens */
     align-items: center;
