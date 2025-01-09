@@ -1,0 +1,24 @@
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols > div:first-child {
+  flex: 1;
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols > div:nth-child(2) {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.maincontent-wrapper > .maincontent.block.maincontent-1-cols img {
+  max-width: 300px;
+  height: auto;
+  flex-shrink: 0;
+  margin-top: 20px; /* Adjust the top margin for better alignment */
+}
