@@ -4,4 +4,4 @@ Fix #<gh-issue-id>
 
 Test URLs:
 - Before: https://main--blogosoco--aemdemos.aem.live/
-- After: https://<branch>--blogosoco--aemdemos.aem.live/
+- After: https://main--blogosoco--aemdemos.aem.live/
