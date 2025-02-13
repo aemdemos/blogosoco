@@ -28,7 +28,7 @@
   border-radius: 8px; /* Optional: Adds rounded corners to the image */
 }
 
-@media (max-width: 900px) {
+@media (width <= 900px) {
   .maincontent-wrapper > .maincontent.block.maincontent-1-cols {
     flex-direction: column; /* Stack items vertically on smaller screens */
     align-items: center; /* Center items horizontally */
