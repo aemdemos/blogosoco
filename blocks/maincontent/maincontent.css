@@ -7,19 +7,20 @@
 }
 
 .maincontent-wrapper > .maincontent.block.maincontent-1-cols > div:nth-child(1) {
-  flex: 1; /* Give equal space to both the text and image sections */
+  flex: 2; /* Allocate more space to the text section */
 }
 
 .maincontent-wrapper > .maincontent.block.maincontent-1-cols > div:nth-child(2) {
-  flex: 1; /* Give equal space to both the text and image sections */
+  flex: 1; /* Allocate less space to the image section */
   display: flex;
-  justify-content: center; /* Center the image horizontally */
+  flex-direction: row; /* Ensure the image is aligned horizontally */
+  justify-content: flex-start; /* Align the image to the left within its container */
   align-items: flex-start; /* Align the image to the top */
 }
 
 .maincontent-wrapper .maincontent.block.maincontent-1-cols picture {
   display: block;
-  margin-left: 0;
+  margin: 0; /* Remove any default margins */
 }
 
 .maincontent-wrapper .maincontent.block.maincontent-1-cols img {
@@ -28,7 +29,7 @@
   border-radius: 8px; /* Optional: Adds rounded corners to the image */
 }
 
-@media (width <= 900px) {
+@media (max-width: 900px) {
   .maincontent-wrapper > .maincontent.block.maincontent-1-cols {
     flex-direction: column; /* Stack items vertically on smaller screens */
     align-items: center; /* Center items horizontally */
