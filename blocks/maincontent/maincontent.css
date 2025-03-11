@@ -1,0 +1,39 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex; /* Arrange children side by side */
+  flex-direction: row; /* Ensure horizontal alignment */
+  gap: 16px; /* Add space between text and image sections */
+  align-items: flex-start; /* Align content at the top */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  flex: 2; /* Text section takes up more space */
+}
+
+.maincontent-wrapper > .maincontent > div:last-child {
+  flex: 1; /* Image section takes up less space */
+}
+
+.maincontent-wrapper > .maincontent > div:last-child img {
+  max-width: 100%; /* Ensure the image fits its container */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Add rounded corners */
+  float: right; /* Float the image to the right to allow text wrapping */
+  margin-left: 16px; /* Add spacing between the image and the text */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child p {
+  margin-top: 0; /* Align the text with the top of the image */
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .maincontent-wrapper > .maincontent {
+    flex-direction: column; /* Stack image and text vertically */
+  }
+
+  .maincontent-wrapper > .maincontent > div:last-child img {
+    float: none; /* Disable floating on smaller screens */
+    margin: 0 auto; /* Center the image */
+  }
+}
