@@ -27,7 +27,7 @@
 }
 
 /* Responsive design for smaller screens */
-@media (max-width: 768px) {
+@media (width <= 768px) {
   .maincontent-wrapper > .maincontent {
     flex-direction: column; /* Stack image and text vertically */
   }
