@@ -27,7 +27,7 @@
   margin-bottom: 4px; /* Slightly reduce spacing between title and text block */
 }
 
-@media (min-width: 900px) { /* Responsive design for larger screens */
+@media (width >= 900px) { /* Responsive design for larger screens */
   .maincontent-wrapper > .maincontent {
     flex-direction: row; /* Maintain side-by-side layout */
   }
