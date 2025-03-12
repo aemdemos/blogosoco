@@ -1,0 +1,38 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex; /* Enable flexbox for layout */
+  flex-direction: row; /* Arrange elements side by side */
+  gap: 24px; /* Add spacing between text and image sections */
+  align-items: flex-start; /* Align items to the top */
+}
+
+.maincontent-wrapper > .maincontent > div {
+  flex: 1; /* Allow equal space distribution between sections */
+  display: flex; /* Enable nested flexbox for content within each section */
+  flex-direction: row; /* Ensure elements inside are aligned side by side */
+  align-items: flex-start; /* Align content to the top */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  flex-direction: column; /* Stack the title and text vertically */
+  justify-content: flex-start; /* Align content to the top */
+  gap: 16px; /* Add spacing between title and text */
+}
+
+.maincontent-wrapper > .maincontent > div:nth-child(2) {
+  display: flex; /* Ensure proper alignment within the image section */
+  align-items: flex-start; /* Align image with the top of the text block */
+  justify-content: flex-start; /* Align image content horizontally */
+}
+
+.maincontent-wrapper > .maincontent img {
+  max-width: 100%; /* Ensure the image is responsive */
+  width: auto; /* Allow the image to adjust dynamically */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px; /* Add rounded corners to the image */
+}
+
+h1 {
+  margin: 0; /* Remove extra margin to align title closer to the text */
+  text-align: left; /* Align the title with the left edge of the text block */
+}
