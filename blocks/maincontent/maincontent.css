@@ -1,0 +1,34 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex; /* Use flexbox for horizontal alignment */
+  flex-direction: row; /* Ensure elements are side by side */
+  gap: 10px; /* Slightly reduce spacing between the columns */
+  align-items: flex-start; /* Align content vertically at the top */
+}
+
+.maincontent-wrapper > .maincontent > div {
+  flex: 1; /* Allow child divs to take up available space */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  flex-basis: 36%; /* Further reduce text column width for better balance */
+}
+
+.maincontent-wrapper > .maincontent > div:last-child {
+  flex-basis: 64%; /* Further increase image column width for better emphasis */
+}
+
+.maincontent-wrapper > .maincontent img {
+  width: 100%; /* Ensure image is responsive */
+  border-radius: 8px; /* Keep rounded corners for the image */
+}
+
+.maincontent-wrapper h1 {
+  margin-bottom: 4px; /* Slightly reduce spacing between title and text block */
+}
+
+@media (min-width: 900px) { /* Responsive design for larger screens */
+  .maincontent-wrapper > .maincontent {
+    flex-direction: row; /* Maintain side-by-side layout */
+  }
+}
