@@ -28,7 +28,7 @@ h1 {
   margin-top: 0; /* Ensure the title aligns with the top of the image */
 }
 
-@media (max-width: 899px) {
+@media (width <= 899px) {
   .maincontent-wrapper > .maincontent {
     flex-direction: column; /* Stack text and image vertically on smaller screens */
     gap: 16px; /* Adjust spacing for smaller screens */
