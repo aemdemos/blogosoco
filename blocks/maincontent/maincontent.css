@@ -1,0 +1,37 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex; /* Create a flexbox layout */
+  flex-direction: row; /* Ensure child divs are side by side */
+  gap: 24px; /* Add spacing between the text block and the image block */
+  align-items: flex-start; /* Align sections vertically at the top */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  display: flex; /* Enable flexbox for the left-hand section */
+  flex-direction: column; /* Stack title and text vertically */
+  flex: 3; /* Allocate 60% width to the left-hand section */
+  gap: 16px; /* Add spacing between the title and the text block */
+  align-items: flex-start; /* Ensure alignment at the top */
+}
+
+.maincontent-wrapper > .maincontent > div:last-child {
+  flex: 2; /* Allocate 40% width to the image block */
+  align-self: flex-start; /* Ensure alignment at the top */
+}
+
+.maincontent-wrapper > .maincontent img {
+  width: 100%; /* Ensure image fits its container */
+  border-radius: 8px; /* Add rounded corners */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+}
+
+@media (min-width: 900px) {
+  .maincontent-wrapper > .maincontent {
+    flex-direction: row; /* Maintain horizontal layout on larger screens */
+    gap: 24px; /* Maintain spacing */
+  }
+
+  .maincontent-wrapper > .maincontent > div:first-child {
+    flex-direction: column; /* Ensure nested content flows properly */
+  }
+}
