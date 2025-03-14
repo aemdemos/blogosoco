@@ -29,7 +29,7 @@ p {
   margin: 0.3em 0; /* Add consistent spacing between paragraphs */
 }
 
-@media (max-width: 900px) {
+@media (width <= 900px) {
   .maincontent-wrapper > .maincontent {
     flex-direction: column; /* Stack elements vertically on small screens */
     gap: 10px; /* Maintain spacing between stacked elements */
