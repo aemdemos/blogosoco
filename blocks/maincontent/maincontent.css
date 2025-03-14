@@ -1,0 +1,42 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex; /* Use Flexbox for horizontal alignment */
+  flex-direction: row; /* Align elements side by side */
+  gap: 16px; /* Reduce spacing between text and image columns */
+  align-items: flex-start; /* Align items at the top */
+  max-width: 1200px; /* Restrict block width */
+  margin: auto; /* Center block within viewport */
+}
+
+.maincontent-wrapper > .maincontent > div {
+  flex: 1; /* Ensure equal space for text and image containers */
+  display: flex; /* Allow nested content alignment */
+  flex-direction: row; /* Ensure nested content aligns side by side */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  text-align: left; /* Align text flush to the left */
+}
+
+.maincontent-wrapper > .maincontent img {
+  width: 50%; /* Ensure image occupies balanced space in the right column */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Prevent text wrapping */
+  margin: 0; /* Remove extra margins */
+  align-self: flex-start; /* Align image at the top of its container */
+}
+
+@media (max-width: 768px) {
+  .maincontent-wrapper > .maincontent {
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+    gap: 16px; /* Adjust spacing for smaller screens */
+  }
+
+  .maincontent-wrapper > .maincontent > div {
+    flex-direction: column; /* Stack inner content on smaller screens */
+  }
+
+  .maincontent-wrapper > .maincontent img {
+    width: 100%; /* Ensure image fits container width */
+  }
+}
