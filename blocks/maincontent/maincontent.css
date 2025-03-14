@@ -26,7 +26,7 @@
   align-self: flex-start; /* Align image at the top of its container */
 }
 
-@media (max-width: 768px) {
+@media (width <= 768px) {
   .maincontent-wrapper > .maincontent {
     flex-direction: column; /* Stack elements vertically on smaller screens */
     gap: 16px; /* Adjust spacing for smaller screens */
