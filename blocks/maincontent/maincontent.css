@@ -25,7 +25,7 @@
   max-width: 300px; /* Limit the image width */
   margin-right: 16px; /* Add spacing between the image and the text */
   border-radius: 8px; /* Apply rounded corners to the image */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add subtle shadow */
+  box-shadow: 0 2px 4px rgb(0 0 0 / 20%); /* Add subtle shadow */
 }
 
 .maincontent-wrapper > .maincontent p {
