@@ -1,0 +1,39 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex; /* Use Flexbox for horizontal layout */
+  flex-direction: row; /* Ensure elements are side by side */
+  gap: 24px; /* Add spacing between columns */
+  align-items: flex-start; /* Align elements at the top */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  flex: 1; /* Allow the text and title column to take proportional space */
+}
+
+.maincontent-wrapper > .maincontent > div:last-child {
+  flex: 1; /* Allow the image column to take proportional space */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child h1 {
+  margin-bottom: 8px; /* Reduce whitespace below the title */
+  font-size: var(--heading-font-size-xl); /* Apply font size for the heading */
+}
+
+.maincontent-wrapper > .maincontent > div:last-child picture {
+  display: block; /* Ensure the image container behaves like a block element */
+  float: left; /* Float the image to allow text to wrap around it */
+  max-width: 300px; /* Limit the image width */
+  margin-right: 16px; /* Add spacing between the image and the text */
+  border-radius: 8px; /* Apply rounded corners to the image */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add subtle shadow */
+}
+
+.maincontent-wrapper > .maincontent p {
+  margin-top: 0; /* Remove unnecessary top margin */
+  margin-bottom: 16px; /* Ensure consistent spacing between paragraphs */
+  line-height: 1.6; /* Improve readability */
+}
+
+.maincontent-wrapper > .maincontent p:last-child {
+  margin-top: 24px; /* Add extra spacing above the final paragraph */
+}
