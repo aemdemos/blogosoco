@@ -1,0 +1,36 @@
+
+.maincontent-wrapper > .maincontent {
+  display: flex; /* Use flex layout for side-by-side columns */
+  flex-direction: row; /* Ensure horizontal alignment */
+  gap: 12px; /* Reduce spacing between columns for tighter alignment */
+  align-items: flex-start; /* Align items to the top */
+}
+
+.maincontent-wrapper > .maincontent > div:first-child {
+  flex: 1; /* Make the text column slightly narrower */
+}
+
+.maincontent-wrapper > .maincontent > div:last-child {
+  flex: 1.2; /* Make the image column slightly wider */
+}
+
+.maincontent-wrapper .maincontent img {
+  width: 100%; /* Ensure the image scales properly within its container */
+  border-radius: 8px; /* Add rounded corners to the image */
+  margin-top: 0; /* Ensure the image aligns with the top of the text */
+}
+
+.maincontent-wrapper h1 {
+  margin-bottom: 12px; /* Adjust spacing below the title for better alignment */
+}
+
+@media (max-width: 900px) {
+  .maincontent-wrapper > .maincontent {
+    flex-direction: column; /* Stack columns vertically for smaller screens */
+    gap: 16px; /* Adjust spacing for smaller screens */
+  }
+
+  .maincontent-wrapper > .maincontent > div {
+    flex: unset; /* Reset column widths for stacked layout */
+  }
+}
