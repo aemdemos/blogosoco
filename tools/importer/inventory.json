@@ -1,0 +1,2275 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2015/11/osgi-components-simply-simple-part-iii/",
+          "urlHash": "0303eb5ed95a59858eb4d57d1426db75901d2caa",
+          "uuid": "0303eb5e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/sling-polo-shirts-arrived/",
+          "urlHash": "03a12872c7857448f2a22baa10dc7ecbed93ddaa",
+          "uuid": "03a12872-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/04/http-whiteboard-simply-simple-part-i/",
+          "urlHash": "045d859da09a0775e33e2e4ec448685df11cd7fd",
+          "uuid": "045d859d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/garbage-collection-in-objective-c/",
+          "urlHash": "053c55b42a4d2f25eff21cf8784d5e07243674b2",
+          "uuid": "053c55b4-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/cocoon-gettogether-2007-in-rome/",
+          "urlHash": "07e84b4a4741d74a4bca906a5966b3309f911944",
+          "uuid": "07e84b4a-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/jcr-in-action-session/",
+          "urlHash": "0b96fb7aff2753f9f5aa1eff3b465625c80125a7",
+          "uuid": "0b96fb7a-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/components/",
+          "urlHash": "0f47076382aca863814a5efc6c0c72f23f642cea",
+          "uuid": "0f470763-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/08/maven-release-plugin-removes-headers/",
+          "urlHash": "10af318c5182b888f0847e377fb9ba83b25cf262",
+          "uuid": "10af318c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/category/everything/",
+          "urlHash": "11e73f83c68632e32936de04459e8ed756ad3fd3",
+          "uuid": "11e73f83-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/10/ray-wilson-live-in-paderborn/",
+          "urlHash": "16b55138d96f7bce582892dceffa4c1faf48389b",
+          "uuid": "16b55138-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/portlet-api-20-and-jcr-20-public-review/",
+          "urlHash": "177a29bd35c84d853d86c6d38a308b1440fcd7c9",
+          "uuid": "177a29bd-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/08/happy-birthday-madonna/",
+          "urlHash": "1c7384116d5d7006cd3279eea9a51dabc4591a06",
+          "uuid": "1c738411-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/maven-207-is-out/",
+          "urlHash": "21ba1576c3466412472ca453eb71ecd16212c889",
+          "uuid": "21ba1576-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/01/portlets-and-osgi/",
+          "urlHash": "224cc9a294c10514e6f03f2d687fae26ad761eb0",
+          "uuid": "224cc9a2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/new-projects-apache-sling-and-apache-sanselan/",
+          "urlHash": "29937e65ea426d0d5e3ce67a11c4f54f619b2ca9",
+          "uuid": "29937e65-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/creating-osgi-services-with-the-apache-felix-scr-plugin/",
+          "urlHash": "2a4a68db8a9b49d9f192c1a69faf67f78af51601",
+          "uuid": "2a4a68db-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/heading-west/",
+          "urlHash": "2af479f816c300a1d5ce5295765301566406c43d",
+          "uuid": "2af479f8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/apache-ibatis-and-apache-sanselan-session/",
+          "urlHash": "31640377fc656a9a2e57511ff0dbb4916d6aa479",
+          "uuid": "31640377-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2017/08/osgi-declarative-services-configuration-binding/",
+          "urlHash": "391b1f9f5251bc213634211d252ca8e411cddbc5",
+          "uuid": "391b1f9f-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/arrived-in-atlanta-for-apachecon/",
+          "urlHash": "3cf392676a9554e7b6b83f1b03568742769700b8",
+          "uuid": "3cf39267-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/movable-type-sucks-wordpress-rocks/",
+          "urlHash": "441a3722976148074e82e7068f707986edbe3b27",
+          "uuid": "441a3722-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/03/conference-season-apachecon-europe-and-jax/",
+          "urlHash": "4736f9c04888956107528e4087c56bf640610e6a",
+          "uuid": "4736f9c0-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/thanks-to-apache-commons-support-for-osgi/",
+          "urlHash": "4814e0b2ec5a87ab242602c90438133843074d89",
+          "uuid": "4814e0b2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/category/uncategorized/",
+          "urlHash": "55ba53d25b1d72df7ff8632c361b2bd5837f29ff",
+          "uuid": "55ba53d2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/conference-season-2008/",
+          "urlHash": "5c314b8e0470c8c81f177ccb9c094d208e520f96",
+          "uuid": "5c314b8e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/excalibur-sourceresolver-released/",
+          "urlHash": "5c8c49e94310114d804e6fced90800b67c9b6c06",
+          "uuid": "5c8c49e9-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/declarative-services/",
+          "urlHash": "63aa0ddbb1d4abcf77e090f0c46da92976869e7b",
+          "uuid": "63aa0ddb-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-ii/",
+          "urlHash": "6553ec2b0fc24d0005230c127dfcd91c5d8c45ef",
+          "uuid": "6553ec2b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/",
+          "urlHash": "679257b1e8914f3806fc00eba040027dce98f157",
+          "uuid": "679257b1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/fun/",
+          "urlHash": "6aa5469e60363221236fd3b792203277a7f16591",
+          "uuid": "6aa5469e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/privacy-policy/",
+          "urlHash": "6ac2e7f87a91bbbf9c8a10f4ec704ddc64baa937",
+          "uuid": "6ac2e7f8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/11/increasing-interest-in-jcr-and-apache-sling/",
+          "urlHash": "6ed0a5e82073a54391529775472ffe77159ba037",
+          "uuid": "6ed0a5e8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/02/getting-started-with-portal-servers-and-spec-compliance/",
+          "urlHash": "6ed101888150798f967dc8438177df8c4a671449",
+          "uuid": "6ed10188-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/osgiapachecon/",
+          "urlHash": "6f2643d575a1d2558680e163c88dc247e2e7023c",
+          "uuid": "6f2643d5-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/apache-felix-100-released/",
+          "urlHash": "72580161f67f3e6de742ecfb1709fa984abcd229",
+          "uuid": "72580161-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/03/portals-meetup-at-apachecon-europe/",
+          "urlHash": "7a2834fba5337e7d9f80475e6db11bdef358d062",
+          "uuid": "7a2834fb-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2020/07/guide-on-using-osgi-configurations/",
+          "urlHash": "7e335dce1a8135018b9c192cc2a202d37a2e4663",
+          "uuid": "7e335dce-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/10/first-steps-with-jquery/",
+          "urlHash": "7f88eac9b8beb73b145ce7d2481e99db04bf3273",
+          "uuid": "7f88eac9-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/10/http-whiteboard-simply-simple-part-iii/",
+          "urlHash": "81f915ca59090a5dec1993f653dd2cd29fe14218",
+          "uuid": "81f915ca-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/leaving-orlando/",
+          "urlHash": "84d5cdc341b6c993f004fede3b65579afc4a191e",
+          "uuid": "84d5cdc3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/innovation-at-apache-the-fun-is-back-with-apache-sling/",
+          "urlHash": "854ca24468d0ca5da61b002bcaa04689772c9d3b",
+          "uuid": "854ca244-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/cool-eclipse-plugin-mvn-indexer/",
+          "urlHash": "85756295c372ccbefafb7290e9bf5b9d92cecb96",
+          "uuid": "85756295-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/the-musical-box-live-in-hamburg/",
+          "urlHash": "861c477e0a1843f9efe592bef6b86ad7d12a3322",
+          "uuid": "861c477e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/portals-track-at-apachecon/",
+          "urlHash": "910b940255ac21a68b1bb008256d722a108594af",
+          "uuid": "910b9402-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/interesting-session-in-new-orleans/",
+          "urlHash": "92465ea7ca9e3567b8c76b880d1a5e915c72bfe4",
+          "uuid": "92465ea7-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/what-happened-to-the-springframework-site/",
+          "urlHash": "9a942205ade597f47daef79ddeea555caf371460",
+          "uuid": "9a942205-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/dependency-injection/",
+          "urlHash": "9f6591b622204a5f43f230ec060893a4d82f5190",
+          "uuid": "9f6591b6-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/04/jax-apache-sling-and-accidental-complexity/",
+          "urlHash": "a7dffa5df131cd260e00492ddec056561aae69d2",
+          "uuid": "a7dffa5d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/05/building-osgi-bundles-with-apache-maven/",
+          "urlHash": "ac136f6dc94e3704f47b7366c3c5d73f95b73845",
+          "uuid": "ac136f6d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/developer/",
+          "urlHash": "ac5e265c29323836edf70a1e615696462cb84c5c",
+          "uuid": "ac5e265c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/services/",
+          "urlHash": "af6448527caec21cee238dad08fab4cdada9aec4",
+          "uuid": "af644852-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2021/07/the-truth-about-aem-run-modes/",
+          "urlHash": "b15e1faae4b36fff8e152be9e644d65e9fa56ed5",
+          "uuid": "b15e1faa-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/orlando-florida/",
+          "urlHash": "b26d3e2aa130644e973ba69ee0415c905fc2e4be",
+          "uuid": "b26d3e2a-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2024/02/value-created-by-developers/",
+          "urlHash": "b27bb8b0cde882af82e1a5a4127fb413e0e69249",
+          "uuid": "b27bb8b0-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/back-in-paderborn/",
+          "urlHash": "b333cb7011452f844d5306b76143c01075efa41f",
+          "uuid": "b333cb70-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/apachecon-eu-in-amsterdam/",
+          "urlHash": "c67ca7fb0eead1243f63b802d0b36c4e72bab670",
+          "uuid": "c67ca7fb-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2011/04/apache-axis2-book/",
+          "urlHash": "c7c35406ec72f43ede1f5e8eb89bb185cef8a1c4",
+          "uuid": "c7c35406-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/silence-is-over/",
+          "urlHash": "d05eeb4b38410e5fefab8c0fb98468ad3ff94abd",
+          "uuid": "d05eeb4b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/value/",
+          "urlHash": "d70f2ad9a5c6c28e4cbb10208ea9fa42dc80806b",
+          "uuid": "d70f2ad9-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/cocoon-22-is-released/",
+          "urlHash": "db0e9073f0b234e4e2d7da6ae165d9c07187e4dd",
+          "uuid": "db0e9073-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2017/07/new-osgi-configuration-features-r7/",
+          "urlHash": "db7ebdc79c29e6ad585bace44d9c89d95e5af962",
+          "uuid": "db7ebdc7-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/04/rapid-development-with-apache-sling-using-an-ide/",
+          "urlHash": "dcfe9621d3dbde8899af189af98d6f6ea47b3111",
+          "uuid": "dcfe9621-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/04/hello-world/",
+          "urlHash": "de10145719e78b2b2cfdaa1bc487b9347b189788",
+          "uuid": "de101457-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/05/migrating-from-the-apache-felix-scr-annotations-to-the-osgi-declarative-services-annotations/",
+          "urlHash": "e2d8dc7c6fedc7485b11edc1ae0732842de9cd12",
+          "uuid": "e2d8dc7c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/osgi/",
+          "urlHash": "f3c75f8d9824af1148578436fb2b7c7989261fb5",
+          "uuid": "f3c75f8d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/aem/",
+          "urlHash": "f54162b8baa4b251de097f811f593ebd642496f1",
+          "uuid": "f54162b8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/heading-east/",
+          "urlHash": "f869289b4946002c89b3bd777d0f4525eb40c254",
+          "uuid": "f869289b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/04/example-osgi-web-application/",
+          "urlHash": "f8aeed44c795e3fc608e06bbf43ad1f67431df11",
+          "uuid": "f8aeed44-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/cocoon-portal-and-jcr/",
+          "urlHash": "faa0b100c645c7c7b32deb22d2ff4b087e2c63f4",
+          "uuid": "faa0b100-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/turn-it-on-again-singing-in-the-rain/",
+          "urlHash": "ff848cf117f99bd30ec895965dac548272776b3b",
+          "uuid": "ff848cf1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2015/11/osgi-components-simply-simple-part-iii/",
+          "urlHash": "0303eb5ed95a59858eb4d57d1426db75901d2caa",
+          "uuid": "0303eb5e-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/sling-polo-shirts-arrived/",
+          "urlHash": "03a12872c7857448f2a22baa10dc7ecbed93ddaa",
+          "uuid": "03a12872-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/04/http-whiteboard-simply-simple-part-i/",
+          "urlHash": "045d859da09a0775e33e2e4ec448685df11cd7fd",
+          "uuid": "045d859d-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/garbage-collection-in-objective-c/",
+          "urlHash": "053c55b42a4d2f25eff21cf8784d5e07243674b2",
+          "uuid": "053c55b4-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/cocoon-gettogether-2007-in-rome/",
+          "urlHash": "07e84b4a4741d74a4bca906a5966b3309f911944",
+          "uuid": "07e84b4a-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/jcr-in-action-session/",
+          "urlHash": "0b96fb7aff2753f9f5aa1eff3b465625c80125a7",
+          "uuid": "0b96fb7a-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/components/",
+          "urlHash": "0f47076382aca863814a5efc6c0c72f23f642cea",
+          "uuid": "0f470763-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/08/maven-release-plugin-removes-headers/",
+          "urlHash": "10af318c5182b888f0847e377fb9ba83b25cf262",
+          "uuid": "10af318c-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/category/everything/",
+          "urlHash": "11e73f83c68632e32936de04459e8ed756ad3fd3",
+          "uuid": "11e73f83-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/10/ray-wilson-live-in-paderborn/",
+          "urlHash": "16b55138d96f7bce582892dceffa4c1faf48389b",
+          "uuid": "16b55138-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/portlet-api-20-and-jcr-20-public-review/",
+          "urlHash": "177a29bd35c84d853d86c6d38a308b1440fcd7c9",
+          "uuid": "177a29bd-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/08/happy-birthday-madonna/",
+          "urlHash": "1c7384116d5d7006cd3279eea9a51dabc4591a06",
+          "uuid": "1c738411-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/maven-207-is-out/",
+          "urlHash": "21ba1576c3466412472ca453eb71ecd16212c889",
+          "uuid": "21ba1576-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/01/portlets-and-osgi/",
+          "urlHash": "224cc9a294c10514e6f03f2d687fae26ad761eb0",
+          "uuid": "224cc9a2-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/new-projects-apache-sling-and-apache-sanselan/",
+          "urlHash": "29937e65ea426d0d5e3ce67a11c4f54f619b2ca9",
+          "uuid": "29937e65-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/creating-osgi-services-with-the-apache-felix-scr-plugin/",
+          "urlHash": "2a4a68db8a9b49d9f192c1a69faf67f78af51601",
+          "uuid": "2a4a68db-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/heading-west/",
+          "urlHash": "2af479f816c300a1d5ce5295765301566406c43d",
+          "uuid": "2af479f8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/apache-ibatis-and-apache-sanselan-session/",
+          "urlHash": "31640377fc656a9a2e57511ff0dbb4916d6aa479",
+          "uuid": "31640377-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2017/08/osgi-declarative-services-configuration-binding/",
+          "urlHash": "391b1f9f5251bc213634211d252ca8e411cddbc5",
+          "uuid": "391b1f9f-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/arrived-in-atlanta-for-apachecon/",
+          "urlHash": "3cf392676a9554e7b6b83f1b03568742769700b8",
+          "uuid": "3cf39267-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/movable-type-sucks-wordpress-rocks/",
+          "urlHash": "441a3722976148074e82e7068f707986edbe3b27",
+          "uuid": "441a3722-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/03/conference-season-apachecon-europe-and-jax/",
+          "urlHash": "4736f9c04888956107528e4087c56bf640610e6a",
+          "uuid": "4736f9c0-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/thanks-to-apache-commons-support-for-osgi/",
+          "urlHash": "4814e0b2ec5a87ab242602c90438133843074d89",
+          "uuid": "4814e0b2-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/category/uncategorized/",
+          "urlHash": "55ba53d25b1d72df7ff8632c361b2bd5837f29ff",
+          "uuid": "55ba53d2-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/conference-season-2008/",
+          "urlHash": "5c314b8e0470c8c81f177ccb9c094d208e520f96",
+          "uuid": "5c314b8e-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/excalibur-sourceresolver-released/",
+          "urlHash": "5c8c49e94310114d804e6fced90800b67c9b6c06",
+          "uuid": "5c8c49e9-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/declarative-services/",
+          "urlHash": "63aa0ddbb1d4abcf77e090f0c46da92976869e7b",
+          "uuid": "63aa0ddb-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-ii/",
+          "urlHash": "6553ec2b0fc24d0005230c127dfcd91c5d8c45ef",
+          "uuid": "6553ec2b-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/",
+          "urlHash": "679257b1e8914f3806fc00eba040027dce98f157",
+          "uuid": "679257b1-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/fun/",
+          "urlHash": "6aa5469e60363221236fd3b792203277a7f16591",
+          "uuid": "6aa5469e-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/privacy-policy/",
+          "urlHash": "6ac2e7f87a91bbbf9c8a10f4ec704ddc64baa937",
+          "uuid": "6ac2e7f8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/11/increasing-interest-in-jcr-and-apache-sling/",
+          "urlHash": "6ed0a5e82073a54391529775472ffe77159ba037",
+          "uuid": "6ed0a5e8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/02/getting-started-with-portal-servers-and-spec-compliance/",
+          "urlHash": "6ed101888150798f967dc8438177df8c4a671449",
+          "uuid": "6ed10188-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/osgiapachecon/",
+          "urlHash": "6f2643d575a1d2558680e163c88dc247e2e7023c",
+          "uuid": "6f2643d5-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/apache-felix-100-released/",
+          "urlHash": "72580161f67f3e6de742ecfb1709fa984abcd229",
+          "uuid": "72580161-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/03/portals-meetup-at-apachecon-europe/",
+          "urlHash": "7a2834fba5337e7d9f80475e6db11bdef358d062",
+          "uuid": "7a2834fb-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2020/07/guide-on-using-osgi-configurations/",
+          "urlHash": "7e335dce1a8135018b9c192cc2a202d37a2e4663",
+          "uuid": "7e335dce-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/10/first-steps-with-jquery/",
+          "urlHash": "7f88eac9b8beb73b145ce7d2481e99db04bf3273",
+          "uuid": "7f88eac9-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/10/http-whiteboard-simply-simple-part-iii/",
+          "urlHash": "81f915ca59090a5dec1993f653dd2cd29fe14218",
+          "uuid": "81f915ca-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/leaving-orlando/",
+          "urlHash": "84d5cdc341b6c993f004fede3b65579afc4a191e",
+          "uuid": "84d5cdc3-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/innovation-at-apache-the-fun-is-back-with-apache-sling/",
+          "urlHash": "854ca24468d0ca5da61b002bcaa04689772c9d3b",
+          "uuid": "854ca244-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/cool-eclipse-plugin-mvn-indexer/",
+          "urlHash": "85756295c372ccbefafb7290e9bf5b9d92cecb96",
+          "uuid": "85756295-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/the-musical-box-live-in-hamburg/",
+          "urlHash": "861c477e0a1843f9efe592bef6b86ad7d12a3322",
+          "uuid": "861c477e-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/portals-track-at-apachecon/",
+          "urlHash": "910b940255ac21a68b1bb008256d722a108594af",
+          "uuid": "910b9402-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/interesting-session-in-new-orleans/",
+          "urlHash": "92465ea7ca9e3567b8c76b880d1a5e915c72bfe4",
+          "uuid": "92465ea7-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/what-happened-to-the-springframework-site/",
+          "urlHash": "9a942205ade597f47daef79ddeea555caf371460",
+          "uuid": "9a942205-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/dependency-injection/",
+          "urlHash": "9f6591b622204a5f43f230ec060893a4d82f5190",
+          "uuid": "9f6591b6-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/04/jax-apache-sling-and-accidental-complexity/",
+          "urlHash": "a7dffa5df131cd260e00492ddec056561aae69d2",
+          "uuid": "a7dffa5d-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/05/building-osgi-bundles-with-apache-maven/",
+          "urlHash": "ac136f6dc94e3704f47b7366c3c5d73f95b73845",
+          "uuid": "ac136f6d-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/developer/",
+          "urlHash": "ac5e265c29323836edf70a1e615696462cb84c5c",
+          "uuid": "ac5e265c-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/services/",
+          "urlHash": "af6448527caec21cee238dad08fab4cdada9aec4",
+          "uuid": "af644852-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2021/07/the-truth-about-aem-run-modes/",
+          "urlHash": "b15e1faae4b36fff8e152be9e644d65e9fa56ed5",
+          "uuid": "b15e1faa-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/orlando-florida/",
+          "urlHash": "b26d3e2aa130644e973ba69ee0415c905fc2e4be",
+          "uuid": "b26d3e2a-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2024/02/value-created-by-developers/",
+          "urlHash": "b27bb8b0cde882af82e1a5a4127fb413e0e69249",
+          "uuid": "b27bb8b0-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/back-in-paderborn/",
+          "urlHash": "b333cb7011452f844d5306b76143c01075efa41f",
+          "uuid": "b333cb70-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/apachecon-eu-in-amsterdam/",
+          "urlHash": "c67ca7fb0eead1243f63b802d0b36c4e72bab670",
+          "uuid": "c67ca7fb-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2011/04/apache-axis2-book/",
+          "urlHash": "c7c35406ec72f43ede1f5e8eb89bb185cef8a1c4",
+          "uuid": "c7c35406-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/silence-is-over/",
+          "urlHash": "d05eeb4b38410e5fefab8c0fb98468ad3ff94abd",
+          "uuid": "d05eeb4b-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/value/",
+          "urlHash": "d70f2ad9a5c6c28e4cbb10208ea9fa42dc80806b",
+          "uuid": "d70f2ad9-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/cocoon-22-is-released/",
+          "urlHash": "db0e9073f0b234e4e2d7da6ae165d9c07187e4dd",
+          "uuid": "db0e9073-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2017/07/new-osgi-configuration-features-r7/",
+          "urlHash": "db7ebdc79c29e6ad585bace44d9c89d95e5af962",
+          "uuid": "db7ebdc7-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/04/rapid-development-with-apache-sling-using-an-ide/",
+          "urlHash": "dcfe9621d3dbde8899af189af98d6f6ea47b3111",
+          "uuid": "dcfe9621-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/04/hello-world/",
+          "urlHash": "de10145719e78b2b2cfdaa1bc487b9347b189788",
+          "uuid": "de101457-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/05/migrating-from-the-apache-felix-scr-annotations-to-the-osgi-declarative-services-annotations/",
+          "urlHash": "e2d8dc7c6fedc7485b11edc1ae0732842de9cd12",
+          "uuid": "e2d8dc7c-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/osgi/",
+          "urlHash": "f3c75f8d9824af1148578436fb2b7c7989261fb5",
+          "uuid": "f3c75f8d-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/aem/",
+          "urlHash": "f54162b8baa4b251de097f811f593ebd642496f1",
+          "uuid": "f54162b8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/heading-east/",
+          "urlHash": "f869289b4946002c89b3bd777d0f4525eb40c254",
+          "uuid": "f869289b-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/04/example-osgi-web-application/",
+          "urlHash": "f8aeed44c795e3fc608e06bbf43ad1f67431df11",
+          "uuid": "f8aeed44-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/cocoon-portal-and-jcr/",
+          "urlHash": "faa0b100c645c7c7b32deb22d2ff4b087e2c63f4",
+          "uuid": "faa0b100-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/turn-it-on-again-singing-in-the-rain/",
+          "urlHash": "ff848cf117f99bd30ec895965dac548272776b3b",
+          "uuid": "ff848cf1-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2008/11/sling-polo-shirts-arrived/",
+          "urlHash": "03a12872c7857448f2a22baa10dc7ecbed93ddaa",
+          "uuid": "03a12872-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/garbage-collection-in-objective-c/",
+          "urlHash": "053c55b42a4d2f25eff21cf8784d5e07243674b2",
+          "uuid": "053c55b4-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/08/maven-release-plugin-removes-headers/",
+          "urlHash": "10af318c5182b888f0847e377fb9ba83b25cf262",
+          "uuid": "10af318c-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/portlet-api-20-and-jcr-20-public-review/",
+          "urlHash": "177a29bd35c84d853d86c6d38a308b1440fcd7c9",
+          "uuid": "177a29bd-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/08/happy-birthday-madonna/",
+          "urlHash": "1c7384116d5d7006cd3279eea9a51dabc4591a06",
+          "uuid": "1c738411-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/01/portlets-and-osgi/",
+          "urlHash": "224cc9a294c10514e6f03f2d687fae26ad761eb0",
+          "uuid": "224cc9a2-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/movable-type-sucks-wordpress-rocks/",
+          "urlHash": "441a3722976148074e82e7068f707986edbe3b27",
+          "uuid": "441a3722-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/thanks-to-apache-commons-support-for-osgi/",
+          "urlHash": "4814e0b2ec5a87ab242602c90438133843074d89",
+          "uuid": "4814e0b2-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/excalibur-sourceresolver-released/",
+          "urlHash": "5c8c49e94310114d804e6fced90800b67c9b6c06",
+          "uuid": "5c8c49e9-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/apache-felix-100-released/",
+          "urlHash": "72580161f67f3e6de742ecfb1709fa984abcd229",
+          "uuid": "72580161-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/10/first-steps-with-jquery/",
+          "urlHash": "7f88eac9b8beb73b145ce7d2481e99db04bf3273",
+          "uuid": "7f88eac9-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/innovation-at-apache-the-fun-is-back-with-apache-sling/",
+          "urlHash": "854ca24468d0ca5da61b002bcaa04689772c9d3b",
+          "uuid": "854ca244-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/cool-eclipse-plugin-mvn-indexer/",
+          "urlHash": "85756295c372ccbefafb7290e9bf5b9d92cecb96",
+          "uuid": "85756295-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/portals-track-at-apachecon/",
+          "urlHash": "910b940255ac21a68b1bb008256d722a108594af",
+          "uuid": "910b9402-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/back-in-paderborn/",
+          "urlHash": "b333cb7011452f844d5306b76143c01075efa41f",
+          "uuid": "b333cb70-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2011/04/apache-axis2-book/",
+          "urlHash": "c7c35406ec72f43ede1f5e8eb89bb185cef8a1c4",
+          "uuid": "c7c35406-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/silence-is-over/",
+          "urlHash": "d05eeb4b38410e5fefab8c0fb98468ad3ff94abd",
+          "uuid": "d05eeb4b-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/cocoon-22-is-released/",
+          "urlHash": "db0e9073f0b234e4e2d7da6ae165d9c07187e4dd",
+          "uuid": "db0e9073-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/04/hello-world/",
+          "urlHash": "de10145719e78b2b2cfdaa1bc487b9347b189788",
+          "uuid": "de101457-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/cocoon-portal-and-jcr/",
+          "urlHash": "faa0b100c645c7c7b32deb22d2ff4b087e2c63f4",
+          "uuid": "faa0b100-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 2,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2015/11/osgi-components-simply-simple-part-iii/",
+          "urlHash": "0303eb5ed95a59858eb4d57d1426db75901d2caa",
+          "uuid": "0303eb5e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/sling-polo-shirts-arrived/",
+          "urlHash": "03a12872c7857448f2a22baa10dc7ecbed93ddaa",
+          "uuid": "03a12872-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/04/http-whiteboard-simply-simple-part-i/",
+          "urlHash": "045d859da09a0775e33e2e4ec448685df11cd7fd",
+          "uuid": "045d859d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/garbage-collection-in-objective-c/",
+          "urlHash": "053c55b42a4d2f25eff21cf8784d5e07243674b2",
+          "uuid": "053c55b4-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/cocoon-gettogether-2007-in-rome/",
+          "urlHash": "07e84b4a4741d74a4bca906a5966b3309f911944",
+          "uuid": "07e84b4a-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/jcr-in-action-session/",
+          "urlHash": "0b96fb7aff2753f9f5aa1eff3b465625c80125a7",
+          "uuid": "0b96fb7a-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/components/",
+          "urlHash": "0f47076382aca863814a5efc6c0c72f23f642cea",
+          "uuid": "0f470763-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/08/maven-release-plugin-removes-headers/",
+          "urlHash": "10af318c5182b888f0847e377fb9ba83b25cf262",
+          "uuid": "10af318c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/category/everything/",
+          "urlHash": "11e73f83c68632e32936de04459e8ed756ad3fd3",
+          "uuid": "11e73f83-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/10/ray-wilson-live-in-paderborn/",
+          "urlHash": "16b55138d96f7bce582892dceffa4c1faf48389b",
+          "uuid": "16b55138-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/portlet-api-20-and-jcr-20-public-review/",
+          "urlHash": "177a29bd35c84d853d86c6d38a308b1440fcd7c9",
+          "uuid": "177a29bd-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/08/happy-birthday-madonna/",
+          "urlHash": "1c7384116d5d7006cd3279eea9a51dabc4591a06",
+          "uuid": "1c738411-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/maven-207-is-out/",
+          "urlHash": "21ba1576c3466412472ca453eb71ecd16212c889",
+          "uuid": "21ba1576-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/01/portlets-and-osgi/",
+          "urlHash": "224cc9a294c10514e6f03f2d687fae26ad761eb0",
+          "uuid": "224cc9a2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/new-projects-apache-sling-and-apache-sanselan/",
+          "urlHash": "29937e65ea426d0d5e3ce67a11c4f54f619b2ca9",
+          "uuid": "29937e65-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/creating-osgi-services-with-the-apache-felix-scr-plugin/",
+          "urlHash": "2a4a68db8a9b49d9f192c1a69faf67f78af51601",
+          "uuid": "2a4a68db-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/heading-west/",
+          "urlHash": "2af479f816c300a1d5ce5295765301566406c43d",
+          "uuid": "2af479f8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/apache-ibatis-and-apache-sanselan-session/",
+          "urlHash": "31640377fc656a9a2e57511ff0dbb4916d6aa479",
+          "uuid": "31640377-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2017/08/osgi-declarative-services-configuration-binding/",
+          "urlHash": "391b1f9f5251bc213634211d252ca8e411cddbc5",
+          "uuid": "391b1f9f-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/arrived-in-atlanta-for-apachecon/",
+          "urlHash": "3cf392676a9554e7b6b83f1b03568742769700b8",
+          "uuid": "3cf39267-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/movable-type-sucks-wordpress-rocks/",
+          "urlHash": "441a3722976148074e82e7068f707986edbe3b27",
+          "uuid": "441a3722-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/03/conference-season-apachecon-europe-and-jax/",
+          "urlHash": "4736f9c04888956107528e4087c56bf640610e6a",
+          "uuid": "4736f9c0-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/thanks-to-apache-commons-support-for-osgi/",
+          "urlHash": "4814e0b2ec5a87ab242602c90438133843074d89",
+          "uuid": "4814e0b2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/category/uncategorized/",
+          "urlHash": "55ba53d25b1d72df7ff8632c361b2bd5837f29ff",
+          "uuid": "55ba53d2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/conference-season-2008/",
+          "urlHash": "5c314b8e0470c8c81f177ccb9c094d208e520f96",
+          "uuid": "5c314b8e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/excalibur-sourceresolver-released/",
+          "urlHash": "5c8c49e94310114d804e6fced90800b67c9b6c06",
+          "uuid": "5c8c49e9-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/declarative-services/",
+          "urlHash": "63aa0ddbb1d4abcf77e090f0c46da92976869e7b",
+          "uuid": "63aa0ddb-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-ii/",
+          "urlHash": "6553ec2b0fc24d0005230c127dfcd91c5d8c45ef",
+          "uuid": "6553ec2b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/",
+          "urlHash": "679257b1e8914f3806fc00eba040027dce98f157",
+          "uuid": "679257b1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/fun/",
+          "urlHash": "6aa5469e60363221236fd3b792203277a7f16591",
+          "uuid": "6aa5469e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/privacy-policy/",
+          "urlHash": "6ac2e7f87a91bbbf9c8a10f4ec704ddc64baa937",
+          "uuid": "6ac2e7f8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/11/increasing-interest-in-jcr-and-apache-sling/",
+          "urlHash": "6ed0a5e82073a54391529775472ffe77159ba037",
+          "uuid": "6ed0a5e8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/02/getting-started-with-portal-servers-and-spec-compliance/",
+          "urlHash": "6ed101888150798f967dc8438177df8c4a671449",
+          "uuid": "6ed10188-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/osgiapachecon/",
+          "urlHash": "6f2643d575a1d2558680e163c88dc247e2e7023c",
+          "uuid": "6f2643d5-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/apache-felix-100-released/",
+          "urlHash": "72580161f67f3e6de742ecfb1709fa984abcd229",
+          "uuid": "72580161-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/03/portals-meetup-at-apachecon-europe/",
+          "urlHash": "7a2834fba5337e7d9f80475e6db11bdef358d062",
+          "uuid": "7a2834fb-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2020/07/guide-on-using-osgi-configurations/",
+          "urlHash": "7e335dce1a8135018b9c192cc2a202d37a2e4663",
+          "uuid": "7e335dce-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/10/first-steps-with-jquery/",
+          "urlHash": "7f88eac9b8beb73b145ce7d2481e99db04bf3273",
+          "uuid": "7f88eac9-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/10/http-whiteboard-simply-simple-part-iii/",
+          "urlHash": "81f915ca59090a5dec1993f653dd2cd29fe14218",
+          "uuid": "81f915ca-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/leaving-orlando/",
+          "urlHash": "84d5cdc341b6c993f004fede3b65579afc4a191e",
+          "uuid": "84d5cdc3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/innovation-at-apache-the-fun-is-back-with-apache-sling/",
+          "urlHash": "854ca24468d0ca5da61b002bcaa04689772c9d3b",
+          "uuid": "854ca244-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/cool-eclipse-plugin-mvn-indexer/",
+          "urlHash": "85756295c372ccbefafb7290e9bf5b9d92cecb96",
+          "uuid": "85756295-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/the-musical-box-live-in-hamburg/",
+          "urlHash": "861c477e0a1843f9efe592bef6b86ad7d12a3322",
+          "uuid": "861c477e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/portals-track-at-apachecon/",
+          "urlHash": "910b940255ac21a68b1bb008256d722a108594af",
+          "uuid": "910b9402-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/interesting-session-in-new-orleans/",
+          "urlHash": "92465ea7ca9e3567b8c76b880d1a5e915c72bfe4",
+          "uuid": "92465ea7-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/what-happened-to-the-springframework-site/",
+          "urlHash": "9a942205ade597f47daef79ddeea555caf371460",
+          "uuid": "9a942205-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/dependency-injection/",
+          "urlHash": "9f6591b622204a5f43f230ec060893a4d82f5190",
+          "uuid": "9f6591b6-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/04/jax-apache-sling-and-accidental-complexity/",
+          "urlHash": "a7dffa5df131cd260e00492ddec056561aae69d2",
+          "uuid": "a7dffa5d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/05/building-osgi-bundles-with-apache-maven/",
+          "urlHash": "ac136f6dc94e3704f47b7366c3c5d73f95b73845",
+          "uuid": "ac136f6d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/developer/",
+          "urlHash": "ac5e265c29323836edf70a1e615696462cb84c5c",
+          "uuid": "ac5e265c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/services/",
+          "urlHash": "af6448527caec21cee238dad08fab4cdada9aec4",
+          "uuid": "af644852-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2021/07/the-truth-about-aem-run-modes/",
+          "urlHash": "b15e1faae4b36fff8e152be9e644d65e9fa56ed5",
+          "uuid": "b15e1faa-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/orlando-florida/",
+          "urlHash": "b26d3e2aa130644e973ba69ee0415c905fc2e4be",
+          "uuid": "b26d3e2a-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2024/02/value-created-by-developers/",
+          "urlHash": "b27bb8b0cde882af82e1a5a4127fb413e0e69249",
+          "uuid": "b27bb8b0-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/back-in-paderborn/",
+          "urlHash": "b333cb7011452f844d5306b76143c01075efa41f",
+          "uuid": "b333cb70-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/apachecon-eu-in-amsterdam/",
+          "urlHash": "c67ca7fb0eead1243f63b802d0b36c4e72bab670",
+          "uuid": "c67ca7fb-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2011/04/apache-axis2-book/",
+          "urlHash": "c7c35406ec72f43ede1f5e8eb89bb185cef8a1c4",
+          "uuid": "c7c35406-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/silence-is-over/",
+          "urlHash": "d05eeb4b38410e5fefab8c0fb98468ad3ff94abd",
+          "uuid": "d05eeb4b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/value/",
+          "urlHash": "d70f2ad9a5c6c28e4cbb10208ea9fa42dc80806b",
+          "uuid": "d70f2ad9-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/cocoon-22-is-released/",
+          "urlHash": "db0e9073f0b234e4e2d7da6ae165d9c07187e4dd",
+          "uuid": "db0e9073-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2017/07/new-osgi-configuration-features-r7/",
+          "urlHash": "db7ebdc79c29e6ad585bace44d9c89d95e5af962",
+          "uuid": "db7ebdc7-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/04/rapid-development-with-apache-sling-using-an-ide/",
+          "urlHash": "dcfe9621d3dbde8899af189af98d6f6ea47b3111",
+          "uuid": "dcfe9621-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/04/hello-world/",
+          "urlHash": "de10145719e78b2b2cfdaa1bc487b9347b189788",
+          "uuid": "de101457-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/05/migrating-from-the-apache-felix-scr-annotations-to-the-osgi-declarative-services-annotations/",
+          "urlHash": "e2d8dc7c6fedc7485b11edc1ae0732842de9cd12",
+          "uuid": "e2d8dc7c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/osgi/",
+          "urlHash": "f3c75f8d9824af1148578436fb2b7c7989261fb5",
+          "uuid": "f3c75f8d-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/aem/",
+          "urlHash": "f54162b8baa4b251de097f811f593ebd642496f1",
+          "uuid": "f54162b8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/heading-east/",
+          "urlHash": "f869289b4946002c89b3bd777d0f4525eb40c254",
+          "uuid": "f869289b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/04/example-osgi-web-application/",
+          "urlHash": "f8aeed44c795e3fc608e06bbf43ad1f67431df11",
+          "uuid": "f8aeed44-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/cocoon-portal-and-jcr/",
+          "urlHash": "faa0b100c645c7c7b32deb22d2ff4b087e2c63f4",
+          "uuid": "faa0b100-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/turn-it-on-again-singing-in-the-rain/",
+          "urlHash": "ff848cf117f99bd30ec895965dac548272776b3b",
+          "uuid": "ff848cf1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 3,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2007/10/cocoon-gettogether-2007-in-rome/",
+          "urlHash": "07e84b4a4741d74a4bca906a5966b3309f911944",
+          "uuid": "07e84b4a-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/jcr-in-action-session/",
+          "urlHash": "0b96fb7aff2753f9f5aa1eff3b465625c80125a7",
+          "uuid": "0b96fb7a-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/10/ray-wilson-live-in-paderborn/",
+          "urlHash": "16b55138d96f7bce582892dceffa4c1faf48389b",
+          "uuid": "16b55138-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/maven-207-is-out/",
+          "urlHash": "21ba1576c3466412472ca453eb71ecd16212c889",
+          "uuid": "21ba1576-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/new-projects-apache-sling-and-apache-sanselan/",
+          "urlHash": "29937e65ea426d0d5e3ce67a11c4f54f619b2ca9",
+          "uuid": "29937e65-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/heading-west/",
+          "urlHash": "2af479f816c300a1d5ce5295765301566406c43d",
+          "uuid": "2af479f8-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/apache-ibatis-and-apache-sanselan-session/",
+          "urlHash": "31640377fc656a9a2e57511ff0dbb4916d6aa479",
+          "uuid": "31640377-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/arrived-in-atlanta-for-apachecon/",
+          "urlHash": "3cf392676a9554e7b6b83f1b03568742769700b8",
+          "uuid": "3cf39267-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/03/conference-season-apachecon-europe-and-jax/",
+          "urlHash": "4736f9c04888956107528e4087c56bf640610e6a",
+          "uuid": "4736f9c0-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/conference-season-2008/",
+          "urlHash": "5c314b8e0470c8c81f177ccb9c094d208e520f96",
+          "uuid": "5c314b8e-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/11/increasing-interest-in-jcr-and-apache-sling/",
+          "urlHash": "6ed0a5e82073a54391529775472ffe77159ba037",
+          "uuid": "6ed0a5e8-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/02/getting-started-with-portal-servers-and-spec-compliance/",
+          "urlHash": "6ed101888150798f967dc8438177df8c4a671449",
+          "uuid": "6ed10188-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/03/portals-meetup-at-apachecon-europe/",
+          "urlHash": "7a2834fba5337e7d9f80475e6db11bdef358d062",
+          "uuid": "7a2834fb-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/leaving-orlando/",
+          "urlHash": "84d5cdc341b6c993f004fede3b65579afc4a191e",
+          "uuid": "84d5cdc3-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/the-musical-box-live-in-hamburg/",
+          "urlHash": "861c477e0a1843f9efe592bef6b86ad7d12a3322",
+          "uuid": "861c477e-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/interesting-session-in-new-orleans/",
+          "urlHash": "92465ea7ca9e3567b8c76b880d1a5e915c72bfe4",
+          "uuid": "92465ea7-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/what-happened-to-the-springframework-site/",
+          "urlHash": "9a942205ade597f47daef79ddeea555caf371460",
+          "uuid": "9a942205-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/04/jax-apache-sling-and-accidental-complexity/",
+          "urlHash": "a7dffa5df131cd260e00492ddec056561aae69d2",
+          "uuid": "a7dffa5d-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/orlando-florida/",
+          "urlHash": "b26d3e2aa130644e973ba69ee0415c905fc2e4be",
+          "uuid": "b26d3e2a-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/apachecon-eu-in-amsterdam/",
+          "urlHash": "c67ca7fb0eead1243f63b802d0b36c4e72bab670",
+          "uuid": "c67ca7fb-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/heading-east/",
+          "urlHash": "f869289b4946002c89b3bd777d0f4525eb40c254",
+          "uuid": "f869289b-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/turn-it-on-again-singing-in-the-rain/",
+          "urlHash": "ff848cf117f99bd30ec895965dac548272776b3b",
+          "uuid": "ff848cf1-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 4,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2016/04/example-osgi-web-application/",
+          "urlHash": "f8aeed44c795e3fc608e06bbf43ad1f67431df11",
+          "uuid": "f8aeed44-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/tag/osgi/",
+          "urlHash": "f3c75f8d9824af1148578436fb2b7c7989261fb5",
+          "uuid": "f3c75f8d-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 6,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/category/uncategorized/",
+          "urlHash": "55ba53d25b1d72df7ff8632c361b2bd5837f29ff",
+          "uuid": "55ba53d2-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/fun/",
+          "urlHash": "6aa5469e60363221236fd3b792203277a7f16591",
+          "uuid": "6aa5469e-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/developer/",
+          "urlHash": "ac5e265c29323836edf70a1e615696462cb84c5c",
+          "uuid": "ac5e265c-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/value/",
+          "urlHash": "d70f2ad9a5c6c28e4cbb10208ea9fa42dc80806b",
+          "uuid": "d70f2ad9-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2017/07/new-osgi-configuration-features-r7/",
+          "urlHash": "db7ebdc79c29e6ad585bace44d9c89d95e5af962",
+          "uuid": "db7ebdc7-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 8,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2016/05/building-osgi-bundles-with-apache-maven/",
+          "urlHash": "ac136f6dc94e3704f47b7366c3c5d73f95b73845",
+          "uuid": "ac136f6d-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/tag/aem/",
+          "urlHash": "f54162b8baa4b251de097f811f593ebd642496f1",
+          "uuid": "f54162b8-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2016/05/migrating-from-the-apache-felix-scr-annotations-to-the-osgi-declarative-services-annotations/",
+          "urlHash": "e2d8dc7c6fedc7485b11edc1ae0732842de9cd12",
+          "uuid": "e2d8dc7c-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 11,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2020/07/guide-on-using-osgi-configurations/",
+          "urlHash": "7e335dce1a8135018b9c192cc2a202d37a2e4663",
+          "uuid": "7e335dce-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 12,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/tag/components/",
+          "urlHash": "0f47076382aca863814a5efc6c0c72f23f642cea",
+          "uuid": "0f470763-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/declarative-services/",
+          "urlHash": "63aa0ddbb1d4abcf77e090f0c46da92976869e7b",
+          "uuid": "63aa0ddb-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/dependency-injection/",
+          "urlHash": "9f6591b622204a5f43f230ec060893a4d82f5190",
+          "uuid": "9f6591b6-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/services/",
+          "urlHash": "af6448527caec21cee238dad08fab4cdada9aec4",
+          "uuid": "af644852-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2015/11/osgi-components-simply-simple-part-iii/",
+          "urlHash": "0303eb5ed95a59858eb4d57d1426db75901d2caa",
+          "uuid": "0303eb5e-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/sling-polo-shirts-arrived/",
+          "urlHash": "03a12872c7857448f2a22baa10dc7ecbed93ddaa",
+          "uuid": "03a12872-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/04/http-whiteboard-simply-simple-part-i/",
+          "urlHash": "045d859da09a0775e33e2e4ec448685df11cd7fd",
+          "uuid": "045d859d-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/garbage-collection-in-objective-c/",
+          "urlHash": "053c55b42a4d2f25eff21cf8784d5e07243674b2",
+          "uuid": "053c55b4-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/cocoon-gettogether-2007-in-rome/",
+          "urlHash": "07e84b4a4741d74a4bca906a5966b3309f911944",
+          "uuid": "07e84b4a-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/jcr-in-action-session/",
+          "urlHash": "0b96fb7aff2753f9f5aa1eff3b465625c80125a7",
+          "uuid": "0b96fb7a-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/components/",
+          "urlHash": "0f47076382aca863814a5efc6c0c72f23f642cea",
+          "uuid": "0f470763-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/08/maven-release-plugin-removes-headers/",
+          "urlHash": "10af318c5182b888f0847e377fb9ba83b25cf262",
+          "uuid": "10af318c-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/category/everything/",
+          "urlHash": "11e73f83c68632e32936de04459e8ed756ad3fd3",
+          "uuid": "11e73f83-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/10/ray-wilson-live-in-paderborn/",
+          "urlHash": "16b55138d96f7bce582892dceffa4c1faf48389b",
+          "uuid": "16b55138-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/portlet-api-20-and-jcr-20-public-review/",
+          "urlHash": "177a29bd35c84d853d86c6d38a308b1440fcd7c9",
+          "uuid": "177a29bd-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/08/happy-birthday-madonna/",
+          "urlHash": "1c7384116d5d7006cd3279eea9a51dabc4591a06",
+          "uuid": "1c738411-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/maven-207-is-out/",
+          "urlHash": "21ba1576c3466412472ca453eb71ecd16212c889",
+          "uuid": "21ba1576-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/01/portlets-and-osgi/",
+          "urlHash": "224cc9a294c10514e6f03f2d687fae26ad761eb0",
+          "uuid": "224cc9a2-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/10/new-projects-apache-sling-and-apache-sanselan/",
+          "urlHash": "29937e65ea426d0d5e3ce67a11c4f54f619b2ca9",
+          "uuid": "29937e65-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/creating-osgi-services-with-the-apache-felix-scr-plugin/",
+          "urlHash": "2a4a68db8a9b49d9f192c1a69faf67f78af51601",
+          "uuid": "2a4a68db-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/heading-west/",
+          "urlHash": "2af479f816c300a1d5ce5295765301566406c43d",
+          "uuid": "2af479f8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/apache-ibatis-and-apache-sanselan-session/",
+          "urlHash": "31640377fc656a9a2e57511ff0dbb4916d6aa479",
+          "uuid": "31640377-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2017/08/osgi-declarative-services-configuration-binding/",
+          "urlHash": "391b1f9f5251bc213634211d252ca8e411cddbc5",
+          "uuid": "391b1f9f-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/arrived-in-atlanta-for-apachecon/",
+          "urlHash": "3cf392676a9554e7b6b83f1b03568742769700b8",
+          "uuid": "3cf39267-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/movable-type-sucks-wordpress-rocks/",
+          "urlHash": "441a3722976148074e82e7068f707986edbe3b27",
+          "uuid": "441a3722-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/03/conference-season-apachecon-europe-and-jax/",
+          "urlHash": "4736f9c04888956107528e4087c56bf640610e6a",
+          "uuid": "4736f9c0-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/thanks-to-apache-commons-support-for-osgi/",
+          "urlHash": "4814e0b2ec5a87ab242602c90438133843074d89",
+          "uuid": "4814e0b2-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/category/uncategorized/",
+          "urlHash": "55ba53d25b1d72df7ff8632c361b2bd5837f29ff",
+          "uuid": "55ba53d2-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/conference-season-2008/",
+          "urlHash": "5c314b8e0470c8c81f177ccb9c094d208e520f96",
+          "uuid": "5c314b8e-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/excalibur-sourceresolver-released/",
+          "urlHash": "5c8c49e94310114d804e6fced90800b67c9b6c06",
+          "uuid": "5c8c49e9-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/declarative-services/",
+          "urlHash": "63aa0ddbb1d4abcf77e090f0c46da92976869e7b",
+          "uuid": "63aa0ddb-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-ii/",
+          "urlHash": "6553ec2b0fc24d0005230c127dfcd91c5d8c45ef",
+          "uuid": "6553ec2b-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/",
+          "urlHash": "679257b1e8914f3806fc00eba040027dce98f157",
+          "uuid": "679257b1-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/fun/",
+          "urlHash": "6aa5469e60363221236fd3b792203277a7f16591",
+          "uuid": "6aa5469e-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/privacy-policy/",
+          "urlHash": "6ac2e7f87a91bbbf9c8a10f4ec704ddc64baa937",
+          "uuid": "6ac2e7f8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/11/increasing-interest-in-jcr-and-apache-sling/",
+          "urlHash": "6ed0a5e82073a54391529775472ffe77159ba037",
+          "uuid": "6ed0a5e8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/02/getting-started-with-portal-servers-and-spec-compliance/",
+          "urlHash": "6ed101888150798f967dc8438177df8c4a671449",
+          "uuid": "6ed10188-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/osgiapachecon/",
+          "urlHash": "6f2643d575a1d2558680e163c88dc247e2e7023c",
+          "uuid": "6f2643d5-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/07/apache-felix-100-released/",
+          "urlHash": "72580161f67f3e6de742ecfb1709fa984abcd229",
+          "uuid": "72580161-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/03/portals-meetup-at-apachecon-europe/",
+          "urlHash": "7a2834fba5337e7d9f80475e6db11bdef358d062",
+          "uuid": "7a2834fb-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2020/07/guide-on-using-osgi-configurations/",
+          "urlHash": "7e335dce1a8135018b9c192cc2a202d37a2e4663",
+          "uuid": "7e335dce-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/10/first-steps-with-jquery/",
+          "urlHash": "7f88eac9b8beb73b145ce7d2481e99db04bf3273",
+          "uuid": "7f88eac9-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/10/http-whiteboard-simply-simple-part-iii/",
+          "urlHash": "81f915ca59090a5dec1993f653dd2cd29fe14218",
+          "uuid": "81f915ca-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/leaving-orlando/",
+          "urlHash": "84d5cdc341b6c993f004fede3b65579afc4a191e",
+          "uuid": "84d5cdc3-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/innovation-at-apache-the-fun-is-back-with-apache-sling/",
+          "urlHash": "854ca24468d0ca5da61b002bcaa04689772c9d3b",
+          "uuid": "854ca244-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/cool-eclipse-plugin-mvn-indexer/",
+          "urlHash": "85756295c372ccbefafb7290e9bf5b9d92cecb96",
+          "uuid": "85756295-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/the-musical-box-live-in-hamburg/",
+          "urlHash": "861c477e0a1843f9efe592bef6b86ad7d12a3322",
+          "uuid": "861c477e-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/portals-track-at-apachecon/",
+          "urlHash": "910b940255ac21a68b1bb008256d722a108594af",
+          "uuid": "910b9402-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/interesting-session-in-new-orleans/",
+          "urlHash": "92465ea7ca9e3567b8c76b880d1a5e915c72bfe4",
+          "uuid": "92465ea7-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/what-happened-to-the-springframework-site/",
+          "urlHash": "9a942205ade597f47daef79ddeea555caf371460",
+          "uuid": "9a942205-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/dependency-injection/",
+          "urlHash": "9f6591b622204a5f43f230ec060893a4d82f5190",
+          "uuid": "9f6591b6-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/04/jax-apache-sling-and-accidental-complexity/",
+          "urlHash": "a7dffa5df131cd260e00492ddec056561aae69d2",
+          "uuid": "a7dffa5d-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/05/building-osgi-bundles-with-apache-maven/",
+          "urlHash": "ac136f6dc94e3704f47b7366c3c5d73f95b73845",
+          "uuid": "ac136f6d-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/developer/",
+          "urlHash": "ac5e265c29323836edf70a1e615696462cb84c5c",
+          "uuid": "ac5e265c-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/services/",
+          "urlHash": "af6448527caec21cee238dad08fab4cdada9aec4",
+          "uuid": "af644852-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2021/07/the-truth-about-aem-run-modes/",
+          "urlHash": "b15e1faae4b36fff8e152be9e644d65e9fa56ed5",
+          "uuid": "b15e1faa-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/11/orlando-florida/",
+          "urlHash": "b26d3e2aa130644e973ba69ee0415c905fc2e4be",
+          "uuid": "b26d3e2a-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2024/02/value-created-by-developers/",
+          "urlHash": "b27bb8b0cde882af82e1a5a4127fb413e0e69249",
+          "uuid": "b27bb8b0-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/back-in-paderborn/",
+          "urlHash": "b333cb7011452f844d5306b76143c01075efa41f",
+          "uuid": "b333cb70-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/apachecon-eu-in-amsterdam/",
+          "urlHash": "c67ca7fb0eead1243f63b802d0b36c4e72bab670",
+          "uuid": "c67ca7fb-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2011/04/apache-axis2-book/",
+          "urlHash": "c7c35406ec72f43ede1f5e8eb89bb185cef8a1c4",
+          "uuid": "c7c35406-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/silence-is-over/",
+          "urlHash": "d05eeb4b38410e5fefab8c0fb98468ad3ff94abd",
+          "uuid": "d05eeb4b-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/value/",
+          "urlHash": "d70f2ad9a5c6c28e4cbb10208ea9fa42dc80806b",
+          "uuid": "d70f2ad9-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/04/cocoon-22-is-released/",
+          "urlHash": "db0e9073f0b234e4e2d7da6ae165d9c07187e4dd",
+          "uuid": "db0e9073-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2017/07/new-osgi-configuration-features-r7/",
+          "urlHash": "db7ebdc79c29e6ad585bace44d9c89d95e5af962",
+          "uuid": "db7ebdc7-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2009/04/rapid-development-with-apache-sling-using-an-ide/",
+          "urlHash": "dcfe9621d3dbde8899af189af98d6f6ea47b3111",
+          "uuid": "dcfe9621-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2015/04/hello-world/",
+          "urlHash": "de10145719e78b2b2cfdaa1bc487b9347b189788",
+          "uuid": "de101457-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/05/migrating-from-the-apache-felix-scr-annotations-to-the-osgi-declarative-services-annotations/",
+          "urlHash": "e2d8dc7c6fedc7485b11edc1ae0732842de9cd12",
+          "uuid": "e2d8dc7c-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/osgi/",
+          "urlHash": "f3c75f8d9824af1148578436fb2b7c7989261fb5",
+          "uuid": "f3c75f8d-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/tag/aem/",
+          "urlHash": "f54162b8baa4b251de097f811f593ebd642496f1",
+          "uuid": "f54162b8-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2008/11/heading-east/",
+          "urlHash": "f869289b4946002c89b3bd777d0f4525eb40c254",
+          "uuid": "f869289b-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2016/04/example-osgi-web-application/",
+          "urlHash": "f8aeed44c795e3fc608e06bbf43ad1f67431df11",
+          "uuid": "f8aeed44-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/12/cocoon-portal-and-jcr/",
+          "urlHash": "faa0b100c645c7c7b32deb22d2ff4b087e2c63f4",
+          "uuid": "faa0b100-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        },
+        {
+          "url": "https://blog.osoco.de/2007/06/turn-it-on-again-singing-in-the-rain/",
+          "urlHash": "ff848cf117f99bd30ec895965dac548272776b3b",
+          "uuid": "ff848cf1-02-df2d8614774e18e1b8dccbc899c3c4aee180c525",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 14,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2007/11/creating-osgi-services-with-the-apache-felix-scr-plugin/",
+          "urlHash": "2a4a68db8a9b49d9f192c1a69faf67f78af51601",
+          "uuid": "2a4a68db-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 15,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2016/10/http-whiteboard-simply-simple-part-iii/",
+          "urlHash": "81f915ca59090a5dec1993f653dd2cd29fe14218",
+          "uuid": "81f915ca-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/privacy-policy/",
+          "urlHash": "6ac2e7f87a91bbbf9c8a10f4ec704ddc64baa937",
+          "uuid": "6ac2e7f8-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 17,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/category/everything/",
+          "urlHash": "11e73f83c68632e32936de04459e8ed756ad3fd3",
+          "uuid": "11e73f83-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 18,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/",
+          "urlHash": "679257b1e8914f3806fc00eba040027dce98f157",
+          "uuid": "679257b1-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 19,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2017/08/osgi-declarative-services-configuration-binding/",
+          "urlHash": "391b1f9f5251bc213634211d252ca8e411cddbc5",
+          "uuid": "391b1f9f-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 20,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2009/04/rapid-development-with-apache-sling-using-an-ide/",
+          "urlHash": "dcfe9621d3dbde8899af189af98d6f6ea47b3111",
+          "uuid": "dcfe9621-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 21,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2024/02/value-created-by-developers/",
+          "urlHash": "b27bb8b0cde882af82e1a5a4127fb413e0e69249",
+          "uuid": "b27bb8b0-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 22,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2015/11/osgi-components-simply-simple-part-iii/",
+          "urlHash": "0303eb5ed95a59858eb4d57d1426db75901d2caa",
+          "uuid": "0303eb5e-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-ii/",
+          "urlHash": "6553ec2b0fc24d0005230c127dfcd91c5d8c45ef",
+          "uuid": "6553ec2b-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 24,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2016/04/http-whiteboard-simply-simple-part-i/",
+          "urlHash": "045d859da09a0775e33e2e4ec448685df11cd7fd",
+          "uuid": "045d859d-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Fragment",
+      "cluster": 25,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2021/07/the-truth-about-aem-run-modes/",
+          "urlHash": "b15e1faae4b36fff8e152be9e644d65e9fa56ed5",
+          "uuid": "b15e1faa-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 26,
+      "instances": [
+        {
+          "url": "https://blog.osoco.de/2008/11/osgiapachecon/",
+          "urlHash": "6f2643d575a1d2558680e163c88dc247e2e7023c",
+          "uuid": "6f2643d5-01-467f8ed18ac2f8747100bc9f065a76c0bb5706bb",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": []
+}
