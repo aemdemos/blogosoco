@@ -1,6 +1,6 @@
 # blogosoco
 
-This is a project created by AEMY.
+This is a project created by AEMY - the intelligent developer agent
 
 ## Environments
 
