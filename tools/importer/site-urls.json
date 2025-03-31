@@ -1,305 +1,230 @@
 {
-  "originUrl": "https://blog.osoco.de/",
+  "originUrl": "https://www.wheatleyvodka.com",
+  "lastCrawled": "https://www.wheatleyvodka.com/",
   "urls": [
     {
-      "url": "https://blog.osoco.de/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/06/maven-207-is-out/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/about-wheatley",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/06/silence-is-over/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/06/turn-it-on-again-singing-in-the-rain/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/all-you-can-wheat",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/07/apache-felix-100-released/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/beetopolitan",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/07/excalibur-sourceresolver-released/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/bottoms-up",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/07/movable-type-sucks-wordpress-rocks/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/chasing-waterfalls",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/07/portlet-api-20-and-jcr-20-public-review/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/cheap-sunglasses",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/08/maven-release-plugin-removes-headers/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/cocktails-of-the-castaway",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/10/cocoon-gettogether-2007-in-rome/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/cran-holiday-punch",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/10/garbage-collection-in-objective-c/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/cucumber-collins",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/10/new-projects-apache-sling-and-apache-sanselan/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/dad-joke",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/11/apache-ibatis-and-apache-sanselan-session/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/dont-touch-my-bowl",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/11/arrived-in-atlanta-for-apachecon/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/down-the-rabbit-hole",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/11/creating-osgi-services-with-the-apache-felix-scr-plugin/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/fire-on-the-water",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/11/jcr-in-action-session/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/flatiron-flip",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/11/leaving-orlando/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/garden-of-eden",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/11/orlando-florida/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/gone-with-the-wind",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/11/portals-track-at-apachecon/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/green-jacket",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/11/the-musical-box-live-in-hamburg/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/green-machine",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/12/back-in-paderborn/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/its-always-sunny",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/12/cocoon-portal-and-jcr/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/la-luna-rossa",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2007/12/conference-season-2008/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/my-pizza-is-sour",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/04/apachecon-eu-in-amsterdam/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/quince-md",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/04/cocoon-22-is-released/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/raspberry-lemonade",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/04/cool-eclipse-plugin-mvn-indexer/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/romapolitan",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/04/innovation-at-apache-the-fun-is-back-with-apache-sling/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/snooze-alarm",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/04/thanks-to-apache-commons-support-for-osgi/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/spiced-punch",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/08/happy-birthday-madonna/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/spiced-winter-punch",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/10/first-steps-with-jquery/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/summertime-romp",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/10/ray-wilson-live-in-paderborn/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/the-buck-stops-here",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/11/heading-east/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/the-gallagher",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/11/heading-west/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/the-khaleesi",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/11/interesting-session-in-new-orleans/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/the-new-caledonia",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/11/osgiapachecon/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/the-pineapple-bottom",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/11/sling-polo-shirts-arrived/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/village-mary",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2008/11/what-happened-to-the-springframework-site/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/waltzing-back",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2009/01/portlets-and-osgi/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-75",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2009/02/getting-started-with-portal-servers-and-spec-compliance/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-bloody-mary",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2009/03/conference-season-apachecon-europe-and-jax/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-far-east-mule",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2009/03/portals-meetup-at-apachecon-europe/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-shandy",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2009/04/jax-apache-sling-and-accidental-complexity/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-blackberry-mint-julep",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2009/04/rapid-development-with-apache-sling-using-an-ide/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-club",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2009/11/increasing-interest-in-jcr-and-apache-sling/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-club-2",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2011/04/apache-axis2-book/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-greyhound",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2015/04/hello-world/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-martini",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-i/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-mint-lemonade",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2015/08/osgi-components-simply-simple-part-ii/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-moscow-mule",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2015/11/osgi-components-simply-simple-part-iii/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-pineapple-mint-julep",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2016/04/example-osgi-web-application/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-rhubarb-mint-julep",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2016/04/http-whiteboard-simply-simple-part-i/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-screwdriver",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2016/05/building-osgi-bundles-with-apache-maven/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-vodka-sweet-tea-mint-julep",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2016/05/migrating-from-the-apache-felix-scr-annotations-to-the-osgi-declarative-services-annotations/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-white-apple-sangria",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2016/09/http-whiteboard-simply-simple-part-ii/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-white-russian",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2016/10/http-whiteboard-simply-simple-part-iii/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/cocktails/wheatley-winter-wonderful",
+      "source": "SITEMAPS"
     },
     {
-      "url": "https://blog.osoco.de/2017/07/new-osgi-configuration-features-r7/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/2017/08/osgi-declarative-services-configuration-binding/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/2020/07/guide-on-using-osgi-configurations/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/2021/07/the-truth-about-aem-run-modes/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/2024/02/value-created-by-developers/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/blog/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/category/everything/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/category/software/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/category/software/osgi/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/category/uncategorized/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/privacy-policy/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/tag/aem/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/tag/components/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/tag/declarative-services/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/tag/dependency-injection/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/tag/developer/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/tag/fun/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/tag/osgi/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/tag/services/",
-      "source": "CRAWL"
-    },
-    {
-      "url": "https://blog.osoco.de/tag/value/",
-      "source": "CRAWL"
+      "url": "https://www.wheatleyvodka.com/locator",
+      "source": "SITEMAPS"
     }
   ],
   "crawlOptions": {
